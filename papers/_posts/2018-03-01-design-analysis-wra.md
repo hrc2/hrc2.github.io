@@ -5,7 +5,7 @@ year: "2018"
 shortref: "Vatsal & Hoffman. ICRA 2018"
 shorttitle: "Design and Analysis of a Wearable Robotic Forearm"
 nickname: design-analysis-wra
-journal: "Proc. IEEE International Conference on Robotics and Automation (ICRA)}"
+journal: "Proc. IEEE International Conference on Robotics and Automation (ICRA)"
 volume: 
 issue: 
 pages: 

@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Guy Hoffman"
-position: Principal investigator
+position: Principal Investigator
 nickname: guy-hoffman
 handle: hoffman
 email: hoffman@cornell.edu
