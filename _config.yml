@@ -7,15 +7,7 @@ name: HRC2 - Human-Robot Collaboration and Companionship Lab
 description: Human-Robot Collaboration and Companionship (Hoffman) Lab at Cornell University
 url: http://hrc2.io
 
-markdown: redcarpet
-
-redcarpet:
-  extensions:
-   - tables
-   - no_intra_emphasis
-   - autolink
-   - superscript
-   - strikethrough
+markdown: kramdown
 
 # Build settings
 theme: minima
