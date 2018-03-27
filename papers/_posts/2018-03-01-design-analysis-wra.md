@@ -13,6 +13,7 @@ authors: "Vatsal V. & Hoffman G"
 image: /assets/images/papers/wearable-arm.png
 pdf: 
 pdflink:
+pubtype: conference
 github: 
 pmid:  
 pmcid: 
