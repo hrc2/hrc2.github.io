@@ -13,6 +13,7 @@ authors: "Thomaz A., Hoffman G, & Cakmak, M"
 image: /assets/images/papers/fnt-robotics.jpg
 pdf: /assets/pdfs/papers/ThomazHoffmanCakmak16.pdf
 pdflink:
+pubtype: journal
 github: 
 pmid:  
 pmcid: 
