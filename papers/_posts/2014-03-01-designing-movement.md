@@ -12,8 +12,8 @@ pages: 89–122
 authors: "Hoffman G & Ju, W"
 image: /assets/images/papers/shimon-anim.png
 pdf: 
-pdflink: 
-fulltext: https://dl.acm.org/citation.cfm?id=3109827 
+pdflink: https://dl.acm.org/citation.cfm?id=3109827 
+fulltext: 
 pubtype: journal
 github: 
 pmid:  
