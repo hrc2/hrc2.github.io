@@ -34,7 +34,7 @@ This is easiest done online on github.com. There is a `git pull-request` CLI API
 
 ### To stay up-to-date with the master branch
 
-Before your next changes, you need to either rebase your branch from the current master, or just create a new branch for every change you made. This is up to you. The new branch can't be named the same as the old one. So you would want to use a different name for each addition you make to the website. 
+Before your next changes, you need to either rebase your branch from the current master, or create a new branch for every change you made. This is up to you. The new branch can't be named the same as the old one. So you would want to use a different name for each addition you make to the website. 
 
 ```
 git checkout master
