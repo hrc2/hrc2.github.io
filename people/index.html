@@ -13,18 +13,18 @@ navorder: 2
 <div class="bigspacer"></div>
 
 <!-- my sort of involved way of sorting by "position" - there may be a better way -->
-{% assign current_team = site.categories.team | where: "alum","false" | group_by: "position" %}
+{% assign current = site.categories.people | where: "alum","false" | group_by: "position" %}
 
-{% assign pi = current_team | where: "name", "Principal Investigator"  %}
-{% assign phds = current_team | where: "name", "PhD Student"  | first | map: "items" | reverse %}
-{% assign mss = current_team | where: "name", "MS Student" | first | map: "items" | reverse %}
-{% assign mengs = current_team | where: "name", "MEng Student" | first | map: "items" | reverse %}
-{% assign ugs = current_team | where: "name", "Undergraduate Student" | first | map: "items" | reverse %}
+{% assign pi = current | where: "name", "Principal Investigator"  %}
+{% assign phds = current | where: "name", "PhD Student"  | first | map: "items" | reverse %}
+{% assign mss = current | where: "name", "MS Student" | first | map: "items" | reverse %}
+{% assign mengs = current | where: "name", "MEng Student" | first | map: "items" | reverse %}
+{% assign ugs = current | where: "name", "Undergraduate Student" | first | map: "items" | reverse %}
 
-{% assign sorted_team = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: ugs %}
+{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: ugs %}
 
 {% assign memberindex = 0 %}
-{% for member in sorted_team %}
+{% for member in sorted %}
 	{% assign memberindex = memberindex | plus: 1 %}
 	{% assign colindex = memberindex | modulo: 3 %}
 	{% if colindex == 1 %} <!-- opening of a new row -->
@@ -64,7 +64,7 @@ navorder: 2
 <div class="bigtitle text-center">Alumni</div>
 <div class="bigspacer"></div>
 
-{% assign alumni = site.categories.team | where: "alum","true"%}
+{% assign alumni = site.categories.people | where: "alum","true"%}
 {% assign memberindex = 0 %}
 {% for member in alumni %}
 	{% assign memberindex = memberindex | plus: 1 %}
