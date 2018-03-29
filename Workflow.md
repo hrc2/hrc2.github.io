@@ -30,7 +30,7 @@ After that, just regular
 
 ### Create a Pull Request
 
-This is easiest done online on github.com, but there is a `git pull-request` CLI API, which is a little annoying to use. If someone figures it out, please add here.
+This is easiest done online on github.com. There is a `git pull-request` CLI API, which is a little annoying to use and gets you halfway there. If someone figures out a good CLI version, please add the information here.
 
 ### To stay up-to-date with the master branch
 
