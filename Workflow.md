@@ -2,7 +2,7 @@
 
 To add content to the site, you will work on your own staging branch. Below are the steps necessary to do so using the command line. 
 
-You can also use the github online interface or some git client, but I don't know how those work. If you use that, please add the instructions in a section below.
+You can also use the github online interface or some git client, but I don't know how those work. If you use that workflow, please add the instructions in a section below.
 
 ## Using the Command Line
 
@@ -30,11 +30,11 @@ After that, just regular
 
 ### Create a Pull Request
 
-This is easiest done online on github.com. There is a `git pull-request` CLI API, which is a little annoying to use and gets you halfway there. If someone figures out a good CLI version, please add the information here.
+This is easiest done online on github.com. There is a `git pull-request` CLI API, which is a little annoying to use and gets you halfway there. If someone figures out a good CLI workflow, please add the information here.
 
 ### To stay up-to-date with the master branch
 
-Before your next changes, you need to either rebase your branch from the current master, or create a new branch for every change you made. This is up to you. The new branch can't be named the same as the old one. So you would want to use a different name for each addition you make to the website. 
+Before your next changes, you need to either rebase your branch from the current master, or create a new branch for every change you made. This is up to you. The new branch can't be named the same as the old one. So you would want to use a different name for each addition you make to the website. Please use informative names. 
 
 ```
 git checkout master
