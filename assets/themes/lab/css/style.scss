@@ -120,6 +120,10 @@ a.off {
 	font-size: ceil($font-size-base*1.2);
 }
 
+.alumbox {
+    min-height: 50px;
+}
+
 @media all and (max-width: 800) {
 	.member-name {
 		font-size: $font-size-base;
