@@ -67,7 +67,7 @@ navorder: 2
 <!-- my sort of involved way of sorting by "degree" - there may be a better way -->
 {% assign alums = site.data.alums | group_by: "degree" %}
 
-{% assign degrees = "MS,MEng,Undergraduate" | split: ',' %}
+{% assign degrees = "MS,MEng,MPS,Undergraduate" | split: ',' %}
 {% for deg in degrees %}
 	<h1>{{ deg }}</h1>
 	{% assign sgroup = alums | where: "name", deg | first | map: "items" | reverse %}
@@ -80,7 +80,9 @@ navorder: 2
 			<div class="note">{{ member.field }}</div>
 		</div>
 		<div class="col-md-4">
+			{% if member.nowat %}
 			<div class="note">&rarr; {{member.nowat}}</div>
+			{% endif %}
 		</div>
 	</div>
 	{% endfor %}
