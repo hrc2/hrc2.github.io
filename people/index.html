@@ -73,13 +73,13 @@ navorder: 2
 	{% assign sgroup = alums | where: "name", deg | first | map: "items" | reverse %}
 	{% for member in sgroup %}
 		<div class="row alumbox">
-		<div class="col-md-3">
-			<div class="head strong"> {{ member.name }} </div>
+		<div class="col-md-5">
+			<div class="mediumhead strong"> {{ member.name }} </div>
 		</div>
 		<div class="col-md-3">
 			<div class="note">{{ member.field }}</div>
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-4">
 			<div class="note">&rarr; {{member.nowat}}</div>
 		</div>
 	</div>

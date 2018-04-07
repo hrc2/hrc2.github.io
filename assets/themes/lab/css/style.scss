@@ -122,6 +122,7 @@ a.off {
 
 .alumbox {
     min-height: 60px;
+    margin-bottom: 10px;
 }
 
 @media all and (max-width: 800) {
@@ -308,6 +309,12 @@ strong {
 	font-size: $font-size-base*2;
 	font-weight: $font-weight-base;
 	line-height:30px;
+}
+
+.mediumhead {
+	font-size: 22px;
+	font-weight: $font-weight-base;
+	line-height: 28px;
 }
 
 .smallhead {
