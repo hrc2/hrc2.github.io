@@ -13,5 +13,5 @@ image: /assets/images/team/michael-suguitan.jpg
 cv: 
 alum: false
 ---
-Michael Suguitan is a 2nd year Ph.D student in the lab working on expressive and customizable robotics. 
+Michael Suguitan is a 2nd year Ph.D student in the lab working on [Blossom](http://hrc2.io/projects/Blossom), an expressive and customizable handcrafted social robot. 
 
