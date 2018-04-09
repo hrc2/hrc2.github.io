@@ -22,7 +22,7 @@ You can also use the github online interface or some git client, but I don't kno
 
 First time:
 
-`git push -set-upstream origin <yourname_staging>`
+`git push --set-upstream origin <yourname_staging>`
 
 After that, just regular
 
