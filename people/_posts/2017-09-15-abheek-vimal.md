@@ -11,7 +11,7 @@ github:
 scholar: 
 image: /assets/images/team/abheek-vimal.jpg
 cv: 
-alum: false
+alum: true
 ---
 Abheek Vimal is a 1st year MS student in the lab, working on a novel non-verbal expressive channel - skin texture.
 
