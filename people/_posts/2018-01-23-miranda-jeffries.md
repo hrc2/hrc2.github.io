@@ -9,7 +9,7 @@ email: mvj9@cornell.edu
 twitter: 
 github: MirandaJeffries
 scholar: 
-image: /assets/images/team/anonymous-robot.svg
+image: /assets/images/team/miranda-jeffries.jpg
 cv: 
 alum: false
 ---
