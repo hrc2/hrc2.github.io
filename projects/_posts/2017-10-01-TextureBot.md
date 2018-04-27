@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Robotic Texture - A New Expressive Channel for Social Robot"
+title: "Goosebumps - Texture-Changing Robot Skin"
 image: /assets/images/projects/texture-robot.png
 category: projects
 published: true
@@ -11,6 +11,8 @@ tags: [design]
 The Texture Robot Project seeks to create a new expressive nonverbal channel for social robots in the form of texture-changing skin.
 
 **Collaborators: Yuhan Hu, Zhengnan Zhao, Abheek Vimal, and Guy Hoffman (Cornell).**
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/AXrhS1ADDuo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 The vast majority of social robots use body movement and facial expressions to express their internal states. These nonverbal modalities are inspired by human and animal modes of nonverbal expression, but many biological systems also display changes to their skin texture to express their emotional states. This widespread and easily readable behavior has not been utilized for expressive behavior in social robotics.
 
