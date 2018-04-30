@@ -13,6 +13,6 @@ image: /assets/images/team/vighnesh-vatsal.jpg
 cv: 
 alum: false
 ---
-Vighnesh Vatsal is a 3rd year Ph.D student in the lab, working on collaboration with wearable robotics. 
+Vighnesh Vatsal is a 3rd year Ph.D candidate in the lab, working on collaboration with [wearable robotics](http://hrc2.io/projects/ThirdArm). 
 
 
