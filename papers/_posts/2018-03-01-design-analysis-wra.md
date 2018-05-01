@@ -9,7 +9,7 @@ journal: "Proc. IEEE International Conference on Robotics and Automation (ICRA)"
 volume: 
 issue: 
 pages: 
-authors: "Vatsal V. & Hoffman G"
+authors: "Vatsal V. & Hoffman G."
 image: /assets/images/papers/wearable-arm.png
 pdf: 
 pdflink:
