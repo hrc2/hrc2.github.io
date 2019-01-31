@@ -28,13 +28,17 @@ with gratitude.
 <div class="row">
 	<div class="col-md-3">
 		<div class="bigspacer"></div>
-		<div class="glyphbox note"> <!-- DAD: what is this class? -->
+		<div class="glyphbox note"> <!-- what is this class? -->
+			{% if page.papers %}
+					<p>XXXXX</p>
+			{% endif %}
 			{% if page.pdf or page.pdflink or page.fulltext %}
 			<div class="smallhead subtle">
 				Full text
 			</div>	
 			<div class="pad-left note">
 				<div class="smallspacer"></div>
+
 				{% if page.pdflink %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
 					<a class="off" href="{{ page.pdflink }}">Journal PDF</a>
@@ -150,7 +154,17 @@ with gratitude.
 	{% else %}
 	<div class="col-md-8">	
 		<div class="post">
-			{{ content }}
+			{% include JB/setup %}
+
+			{{ page.excerpt }}
+			<hr />
+			{% if page.team %}
+			<strong>Collaborators:</strong>
+			{% for person in page.team %}
+				<a href="">{{person}}</a>{% if forloop.last == false %}, {% endif %}
+			{% endfor %}
+			{% endif %}
+			{{ content | remove_first:page.excerpt  }}
 		</div>	
 	</div>
 	{% endif %}
