@@ -13,4 +13,4 @@ image: /assets/images/team/jihyun-jeong.jpg
 cv:
 alum: false
 ---
-Matt is a 1st year Ph.D student in the lab studying collaborative design between humans and robots in shared physical workspaces.
+Ji Hyun is a 1st year Ph.D student in the lab studying collaborative design between humans and robots in shared physical workspaces.
