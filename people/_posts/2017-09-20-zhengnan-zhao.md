@@ -11,7 +11,7 @@ github: ZenoZero
 scholar: 
 image: /assets/images/team/zhengnan-zhao.jpg
 cv: 
-alum: false
+alum: true
 ---
 Zhengnan Zhao is an interaction designer and a master student in Information Science, works for Texture Robot.
 
