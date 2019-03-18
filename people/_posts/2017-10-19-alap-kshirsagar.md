@@ -10,7 +10,7 @@ twitter: AlapKshirsagar
 github: alapkshirsagar
 scholar: As8oQQkAAAAJ
 image: /assets/images/team/alap-kshirsagar.jpg
-cv: 
+cv:
 alum: false
 ---
-Alap Kshirsagar is a 1st year Ph.D student in the lab.
+Alap Kshirsagar is a 2nd year Ph.D student in the lab.
