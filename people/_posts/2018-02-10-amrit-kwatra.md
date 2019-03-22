@@ -9,7 +9,7 @@ email: ak2244@cornell.edu
 twitter: 
 github: amritkwatra
 scholar: 
-image: /assets/images/team/amrit-kwatra.png
+image: /assets/images/team/amrit-kwatra.jpg
 cv: 
 alum: false
 ---

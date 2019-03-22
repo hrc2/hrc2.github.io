@@ -9,7 +9,7 @@ email: pa284@cornell.edu
 twitter: p_alvesoliveira
 github: 
 scholar: TbN31LMAAAAJ&hl=pt-PT&oi=ao
-image: /assets/images/team/patricia-alvesoliveira.png
+image: /assets/images/team/patricia-alvesoliveira.jpg
 cv: 
 alum: false
 ---

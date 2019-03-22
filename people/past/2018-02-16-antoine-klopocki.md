@@ -11,6 +11,6 @@ github: ajk332
 scholar: 
 image: /assets/images/team/antoine-klopocki.jpg
 cv: 
-alum: false
+alum: true
 ---
 Antoine Klopocki is an MEng student, doing his MEng project with the lab on the blossom project.

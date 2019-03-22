@@ -11,7 +11,7 @@ github: TheMichaelHu
 scholar: 
 image: /assets/images/team/michael-hu.jpg
 cv: 
-alum: false
+alum: true
 ---
 Michael Hu is a CS MEng student in the lab, working on emotion recognition in videos and gesture generation. 
 

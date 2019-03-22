@@ -11,6 +11,6 @@ github: MirandaJeffries
 scholar: 
 image: /assets/images/team/miranda-jeffries.jpg
 cv: 
-alum: false
+alum: true
 ---
 Miranda Jeffries is an M. Eng. student in mechanical engineering working on mechanical design for the Blossom robot.  
