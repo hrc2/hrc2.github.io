@@ -3,7 +3,7 @@ layout: news
 title: Blossom in UW Design Challenge
 author_handle: 
 category: posts
-published: true
+published: false
 ---
 
 Our robot **Blossom** traveled to [University of Washington](http://www.uw.edu/) to participate in the teen robot design challenge! 

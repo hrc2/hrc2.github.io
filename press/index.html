@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "News"
-description: "News from the HRC<sup>2</sup> Lab"
+title: "Press"
+description: "Press Coverage"
 group: subnavigation
 navorder: 6
 ---
@@ -30,42 +30,34 @@ navorder: 6
     
 </div>
 
-{% for post in site.categories.news %}
-
-	{% for member in site.categories.team %}
-		{% if member.handle == post.author_handle %}
-			{% assign author = member %}
-		{% endif %}
-	{% endfor %}
-
-	<div class="bigspacer"></div>
-	<div class="row">
-		<div class="col-md-3">
-			<div class="head">
-				{{ post.title }}
-			</div>
-			<div class="smallnote">
-				{{ post.date | date_to_string }}
-				{% if author %}
-				by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
-				{% endif %}				
-			</div>	
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			HRC<sup>2</sup> is in the news! Below you can find recent press coverage of projects in the human-robot collaboration &amp; companionship lab.
 		</div>
-		<div class="col-md-8">		
-			<div style="height:5px;"></div>			
-			{% if post.image %}
-			<a href="{{ post.url }}"><img class="offset" src="{{ post.image }}"></a>
-			{% endif %}
-			<div class="post">
-				{{ post.content }}
-			</div>
-		</div>			
-		<div class="col-md-1"></div>
 	</div>		
+</div>
 
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+{% assign scoops = site.data.press | sort: "date" | reverse %}
+<div class="row">
+	<div class="col-md-12">
+
+{% for scoop in scoops  %}
+	{% if scoop.selected == "yes" %}
+		<div class="selected-press">
+	{% else %}
+		<div class="other-press">
+	{% endif %}
+		<a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> {{ scoop.date | date_to_string }}
+	</div>
+	<div class="spacer"></div>				
 {% endfor %}
 
-<!-- div class="bigspacer"></div>	
+
+<!--div class="bigspacer"></div>	
 <div class="row">
 	<div class="col-md-12 text-center">
 		<a class="off" href="/{{ page.category }}/archive/">
