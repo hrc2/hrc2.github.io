@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 
 authors: "Yuhan H., Zhao Z, Vimal A, & Hoffman G"
-image: /assets/images/papers/texture-robot.png
+image: /assets/images/papers/texture-robot.jpg
 pdf: 
 pdflink:
 pubtype: conference

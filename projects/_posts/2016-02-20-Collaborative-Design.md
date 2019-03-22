@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Collaborative Design"
+title: "Human-Robot Collaborative Design"
 image: /assets/images/projects/collaborative-design-project.jpg
 category: projects
 published: true
@@ -22,5 +22,5 @@ For example, we built a tangible user interface (TUI) that allows a human design
 
 We [studied](/papers/side-by-side-human) the effects of humans collaboratively designing with a virtual design assistant through this TUI, and are currently exploring how this interaction changes when the agent is embodied physially in a robot.
 
-<div><img src="/assets/images/projects/collaborative-design/daarm.png" width="100%"/></div>
+<div><img src="/assets/images/projects/collaborative-design/daarm.jpg" width="100%"/></div>
 We are also exploring human-computer collaboration in other dynamic design problems, such as the drawing of fair voting districts, as well as collaborative design with a computer agent and a group of human designers.
