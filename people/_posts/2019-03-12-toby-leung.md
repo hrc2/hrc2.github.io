@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Ho Kiu Toby Leung"
-position: MPS Student
+position: MS Student
 field: Information Science
 nickname: toby-leung
 handle: htl9
