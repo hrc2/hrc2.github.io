@@ -187,8 +187,8 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
-			{% assign scoops = site.data.press | where: "selected", "yes" | sort: "date"  %}
-			{% for scoop in  scoops reversed limit:10 %}
+			{% assign scoops = site.data.press | where: "selected", "yes" | sort: "date"  | reverse %}
+			{% for scoop in  scoops limit:10 %}
 			<div class="note">
 				 <a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> {{ scoop.date | date_to_string }}
 			</div>
