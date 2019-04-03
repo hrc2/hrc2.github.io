@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Shi, Y., Bang, H., Hoffman, G., Selva, D., & Yoon, S."
-image: ifeed.png
+image: ifeed.jpg
 pdf:
 pdflink: 
 pubtype: conference
