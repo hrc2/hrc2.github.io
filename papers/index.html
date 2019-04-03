@@ -11,6 +11,7 @@ navorder: 3
 {% for paper in site.categories.papers %}
   {% assign memberindex = memberindex | plus: 1 %}
   {% assign colindex = memberindex | modulo: 3 %}
+  {% assign year = paper.year | plus: 0 %}
   {% if colindex == 1 %} <!-- opening of a new row -->
   <div class="row">
   {% endif %}
@@ -21,7 +22,7 @@ navorder: 3
          <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
         <div class="media-body">
           <div class="smallhead media-heading">
-          {{ paper.title }}
+              {{ paper.title }}
           </div>
           <p class="note">{{ paper.shortref }}</p>
         </div>
