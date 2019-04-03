@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Hu, Y. & Hoffman G."
-image: /assets/images/papers/texture-robot.jpg
+image: /assets/images/papers/goosbumps-hri.png
 pdf:
 pdflink:
 pubtype: conference

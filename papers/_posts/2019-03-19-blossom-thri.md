@@ -10,7 +10,7 @@ volume: 8
 issue: 1
 pages: 1-2
 authors: "Suguitan, M., & Hoffman, G."
-image: /assets/images/papers/blossom-lbr.jpg
+image: /assets/images/papers/blossom-thri.jpg
 pdf: 
 pdflink: https://dl.acm.org/citation.cfm?id=3310356 
 fulltext: 
