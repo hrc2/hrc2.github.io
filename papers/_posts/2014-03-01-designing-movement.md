@@ -2,17 +2,17 @@
 layout: paper
 title: "Designing Robots with Movement in Mind"
 year: 2014
-shortref: "Hoffman, & Ju. JHRI 2014"
+shortref: "Hoffman & Ju. JHRI 2014"
 shorttitle: "Designing Robots with Movement in Mind"
 nickname: designing-movement
 journal: "Journal of HRI"
 volume: 3
 issue: 1
 pages: 89–122
-authors: "Hoffman G & Ju, W"
+authors: "Hoffman G., & Ju, W."
 image: shimon-anim.png
-pdf: 
-pdflink: https://dl.acm.org/citation.cfm?id=3109827 
+pdf: HoffmanJuJHRI14.pdf
+pdflink: 
 fulltext: 
 pubtype: journal
 github: 

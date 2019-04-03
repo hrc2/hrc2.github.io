@@ -12,7 +12,6 @@ navorder: 3
 {% assign newpapers = site.categories.papers | where_exp: "paper", "paper.year > 2015" %}
 {% assign oldpapers = site.categories.papers | where_exp: "paper", "paper.year < 2016" %}
 
-<div class="title ">Since 2016</div>
 <div class="bigspacer"></div>
 {% assign memberindex = 0 %}
 {% for paper in newpapers %}  
@@ -23,7 +22,7 @@ navorder: 3
 </div><div class="bigspacer"></div>
 {% endif %}
 
-<div class="title ">Selected Papers Before 2016</div>
+<div class="title ">Selected Papers Before HRC<sup>2</sup></div>
 <div class="bigspacer"></div>
 {% assign memberindex = 0 %}
 {% for paper in oldpapers %}  
