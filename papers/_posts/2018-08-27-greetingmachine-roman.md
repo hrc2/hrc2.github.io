@@ -2,7 +2,7 @@
 layout: paper
 title: "The Greeting Machine: An Abstract Robotic Object for Opening Encounters"
 year: "2018"
-shortref: "Anderson Bashan & al. RO-MAN 2018"
+shortref: "Anderson Bashan et al. RO-MAN 2018"
 shorttitle: "The Greeting Machine: An Abstract Robotic Object for Opening Encounters"
 nickname: greetingmachine-roman18
 journal: "IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)"
