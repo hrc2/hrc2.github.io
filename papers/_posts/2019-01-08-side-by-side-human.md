@@ -2,7 +2,7 @@
 layout: paper
 title: "Side-by-side Human-Computer Design using a Tangible User Interface"
 year: "2019"
-shortref: "Law, Dhawan, Bang, Selva, Yoon & Hoffman. DCC 2019"
+shortref: "Law et al. DCC 2018"
 shorttitle: "Side-by-side Human-Computer Design using a Tangible User Interface"
 nickname: side-by-side-human
 journal: "Eighth International Conference On Design Computing and Cognition (DCC'18)"

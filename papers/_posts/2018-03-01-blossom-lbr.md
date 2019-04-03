@@ -2,7 +2,7 @@
 layout: paper
 title: "Blossom: A Tensile Social Robot Design with a Handcrafted Shell"
 year: "2018"
-shortref: "Suguitan & Hoffman. HRI 2018"
+shortref: "Suguitan & Hoffman. HRI 2018 LBR"
 shorttitle: "Blossom: A Tensile Social Robot Design with a Handcrafted Shell"
 nickname: blossom-lbr
 journal: "Companion of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (HRI)"
@@ -25,6 +25,8 @@ published: true
 tags: [social robot, design]
 ---
 {% include JB/setup %}
+
+*Please refer to the more recent [Journal Paper](blossom-thri).*
 
 # Abstract 
 
