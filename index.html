@@ -129,7 +129,7 @@ categories:
 					{% endif %}
 				{% endfor %}		
 				<div class="note-title">
-					<i class="far fa-comment fa-fw"></i>
+					<!-- i class="far fa-comment fa-fw"></i -->
 					<a class="off" href="{{ post.url }}">
 					{{ post.title }}
 					</a>
@@ -160,7 +160,6 @@ categories:
 		<div class="feedbox pad-left">		
 			{% for paper in site.categories.papers limit: 8 %}
 				<div class="note-title">
-					<!--i class="fa fa-file-text-o fa-fw"></i-->
 					<a class="off" href="{{ paper.url }}">
 					{{ paper.title }}
 					</a>
