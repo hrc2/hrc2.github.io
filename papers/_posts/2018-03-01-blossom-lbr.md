@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 
 authors: "Suguitan M. & Hoffman G."
-image: /assets/images/papers/blossom-lbr.jpg
+image: blossom-lbr.jpg
 pdf: 
 pdflink:
 pubtype: conference

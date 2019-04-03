@@ -10,10 +10,10 @@ volume:
 issue: 
 pages: 
 authors: "Hoffman G."
-image: /assets/images/papers/fluency-metrics.png
-pdf: 
-pdflink: https://ieeexplore.ieee.org/document/8678448 
-fulltext: 
+image: fluency-metrics.png
+pdf: HoffmanTHMS19.pdf
+pdflink: 
+fulltext:  
 pubtype: journal
 github: 
 pmid:  

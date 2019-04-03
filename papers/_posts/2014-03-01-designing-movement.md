@@ -10,7 +10,7 @@ volume: 3
 issue: 1
 pages: 89–122
 authors: "Hoffman G & Ju, W"
-image: /assets/images/papers/shimon-anim.png
+image: shimon-anim.png
 pdf: 
 pdflink: https://dl.acm.org/citation.cfm?id=3109827 
 fulltext: 

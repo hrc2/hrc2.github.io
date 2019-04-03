@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 
 authors: "Vatsal V. & Hoffman G."
-image: /assets/images/papers/wearable-arm-roman.jpg
+image: wearable-arm-roman.jpg
 pdf: 
 pdflink:
 pubtype: conference

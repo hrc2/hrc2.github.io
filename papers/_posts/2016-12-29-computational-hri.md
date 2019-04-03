@@ -10,8 +10,8 @@ volume: 4
 issue: 2-3
 pages: 105-223
 authors: "Thomaz A., Hoffman G, & Cakmak, M"
-image: /assets/images/papers/fnt-robotics.jpg
-pdf: /assets/pdfs/papers/ThomazHoffmanCakmak16.pdf
+image: fnt-robotics.jpg
+pdf: ThomazHoffmanCakmak16.pdf
 pdflink:
 pubtype: journal
 github: 

@@ -29,12 +29,15 @@ navorder: 3
     {% else %}
    <div class="media">
         <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
+          <img width=100 class="media-object" src="/assets/images/papers/{{ paper.image }}">
         </a>
       <div class="media-body">
           <div class="smallhead media-heading">
           <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
-          </div>
+          {% if paper.award %}
+					<i class="fa fa-trophy fa-fw"></i>
+					{% endif %}
+          </div> 
           <p class="note">{{ paper.shortref }}</p>
       </div>
     </div>

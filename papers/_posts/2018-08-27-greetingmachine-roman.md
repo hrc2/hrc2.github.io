@@ -9,9 +9,9 @@ journal: "IEEE International Symposium on Robot and Human Interactive Communicat
 volume:
 issue:
 pages:
-authors: "Hu, Y. & Hoffman G."
-image: /assets/images/papers/gimi-roman.jpg
-pdf: /assets/pdfs/papers/AndersonBashanetal18.pdf
+authors: "Anderson-Bashan, L., Megidish, B., Erel, H., Wald, I., Hoffman, G., Zuckerman, O., & Grishko, A."
+image: gimi-roman.jpg
+pdf: AndersonBashanetal18.pdf
 htmllink: https://ieeexplore.ieee.org/abstract/document/8525516
 pubtype: conference
 github:
@@ -19,9 +19,10 @@ pmid:
 pmcid:
 f1000:
 figshare:
-doi:
+doi: 10.1109/ROMAN.2018.8525516
 category: papers
 published: true
+award: Best Paper
 tags: [design]
 ---
 {% include JB/setup %}

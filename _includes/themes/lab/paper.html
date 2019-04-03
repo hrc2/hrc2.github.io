@@ -9,19 +9,24 @@ with gratitude.
 	<div class="col-md-3">
 		<div class="media">
 			{% if page.image %}
-			<img class="pull-left pad-right media-object paper-image" src="{{ page.image }}">
+			<img class="pull-left pad-right media-object paper-image" src="/assets/images/papers/{{ page.image }}">
 			{% endif %}
 		</div>
 	</div>
 
 	<div class="col-md-9">
 		<div class="media-body titlebox">
+			<div class="smallhead">
+				{{ page.authors }} ({{ page.year }}).
+			</div>
 			<div class="title media-heading">
 				{{ page.title }}
 			</div>
-			<p>
+			<p />
 			<div class="smallhead">
-				{{ page.authors }}, 
+				{% if page.pubtype == 'conference' %}
+					In Proc. of the 
+				{% endif %}
 				<span class="journal">
 				{{ page.journal }}
 				</span>
@@ -32,10 +37,12 @@ with gratitude.
 				({{ page.issue }})
 				{% endif %}
 				{% if page.pages %}
-				:{{ page.pages }} 
+				: {{ page.pages }}
 				{% endif %}
-				({{ page.year }}).
 			</div>
+			{% if page.award %}
+			<p /><div class="smallhead"><strong>{{page.award}}</strong></div>
+			{% endif %}
 		</div>
 	</div>
 </div>
@@ -59,7 +66,7 @@ with gratitude.
 				{% endif %}
 				{% if page.pdf %}
 					<i class="fa fa-file-pdf-o fa-fw"></i>
-					<a class="off" href="{{ page.pdf }}">PDF</a>
+					<a class="off" href="/assets/pdfs/papers/{{page.pdf }}">PDF</a>
 					<br/>
 				{% endif %}
 				{% if page.fulltext %}
