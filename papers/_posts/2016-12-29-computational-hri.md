@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Computational Human-Robot Interaction"
-year: "2016"
+year: 2016
 shortref: "Thomaz, Hoffman, & Cakmak. FnT-Robotics 2016"
 shorttitle: "Computational Human-Robot Interaction"
 nickname: computational-hri
@@ -13,6 +13,7 @@ authors: "Thomaz A., Hoffman G, & Cakmak, M"
 image: fnt-robotics.jpg
 pdf: ThomazHoffmanCakmak16.pdf
 pdflink:
+fulltext: https://www.nowpublishers.com/article/Details/ROB-049
 pubtype: journal
 github: 
 pmid:  

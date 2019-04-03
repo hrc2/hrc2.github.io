@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Animating Mechanisms: A Pipeline for Authoring Robot Gestures"
-year: "2017"
+year: 2017
 shortref: "Megidish et al. HRI 2017 LBR"
 shorttitle: "Animating Mechanisms: A Pipeline for Authoring Robot Gestures"
 nickname: animating-mech

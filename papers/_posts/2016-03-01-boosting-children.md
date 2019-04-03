@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Boosting children's creativity through creative interactions with social robots"
-year: "2016"
+year: 2016
 shortref: "Alves-Oliveira. HRI 2016 LBR"
 shorttitle: "Boosting children's creativity through creative interactions with social robots"
 nickname: boosting-children-lbr

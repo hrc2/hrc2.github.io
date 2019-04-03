@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Wearing your arm on your sleeve: Studying usage contexts for a wearable robotic forearm"
-year: "2017"
+year: 2017
 shortref: "Vatsal & Hoffman. RO-MAN 2017"
 shorttitle: "Wearing your arm on your sleeve: Studying usage contexts for a wearable robotic forearm"
 nickname: usage-contexts-wra

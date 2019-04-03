@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Evaluating Fluency in Human-Robot Collaboration"
-year: "2019"
+year: 2019
 shortref: "Hoffman THMS 2019"
 shorttitle: "Evaluating Fluency in Human-Robot Collaboration"
 nickname: fluency-metrics

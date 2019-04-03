@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Representation of Movement for Robots with Personality: A Co-Design study with Small Groups of Children"
-year: "2017"
+year: 2017
 shortref: "Alves-Oliveira et al. ROMAN 2017 Workshop"
 shorttitle: "Representation of Movement for Robots with Personality"
 nickname: yolo-smallgroups

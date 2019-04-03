@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Design and Analysis of a Wearable Robotic Forearm"
-year: "2018"
+year: 2018
 shortref: "Vatsal & Hoffman. ICRA 2018"
 shorttitle: "Design and Analysis of a Wearable Robotic Forearm"
 nickname: design-analysis-wra

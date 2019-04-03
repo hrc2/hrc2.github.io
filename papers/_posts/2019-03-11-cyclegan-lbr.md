@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Affective Robot Movement Generation Using CycleGANs"
-year: "2018"
+year: 2018
 shortref: "Suguitan, Bretan, & Hoffman. HRI 2018 LBR"
 shorttitle: "Affective Robot Movement Generation Using CycleGANs"
 nickname: cyclegam-lbr

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Cognitive Style and Field Knowledge in Complex Design Problem-Solving: A Comparative Case Study of Decision Support Systems"
-year: "2019"
+year: 2019
 shortref: "Shi et al. DCC 2018"
 shorttitle: "Cognitive Style and Field Knowledge in Complex Design Problem-Solving"
 nickname: cognitive-style

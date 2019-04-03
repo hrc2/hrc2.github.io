@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Designing Vyo, a robotic Smart Home assistant: Bridging the gap between device and social agent"
-year: "2016"
+year: 2016
 shortref: "Luria et al. RO-MAN 2016"
 shorttitle: "Designing Vyo, a robotic Smart Home assistant"
 nickname: designing-vyo

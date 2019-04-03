@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Comparing Social Robot, Screen and Voice Interfaces for Smart-Home Control"
-year: "2017"
+year: 2017
 shortref: "Luria et al. CHI 2017"
 shorttitle: "Comparing Social Robot, Screen and Voice Interfaces for Smart-Home Control"
 nickname: vyo-comparing

@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "What Robots Can Teach Us About Intimacy: The Reassuring Effects of Robot Responsiveness to Human Disclosure"
-year: "2019"
+year: 2019
 shortref: "Birnbaum et al. CiHB 2019"
 shorttitle: "What Robots Can Teach Us About Intimacy"
 nickname: robot-intimacy

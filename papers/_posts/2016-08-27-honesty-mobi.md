@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Let's be honest: A controlled field study of ethical behavior in the presence of a robot"
-year: "2016"
+year: 2016
 shortref: "Forlizzi et al. RO-MAN 2016"
 shorttitle: "Let's be honest: A controlled field study of ethical behavior in the presence of a robot"
 nickname: honesty-mobi

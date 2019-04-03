@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Blossom: A Tensile Social Robot Design with a Handcrafted Shell"
-year: "2018"
+year: 2018
 shortref: "Suguitan & Hoffman. HRI 2018 LBR"
 shorttitle: "Blossom: A Tensile Social Robot Design with a Handcrafted Shell"
 nickname: blossom-lbr

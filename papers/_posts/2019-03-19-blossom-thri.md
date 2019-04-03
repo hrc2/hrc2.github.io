@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Blossom: A Handcrafted Open-Source Robot"
-year: "2019"
+year: 2019
 shortref: "Suguitan & Hoffman. THRI 2019"
 shorttitle: "Blossom: A Handcrafted Open-Source Robot"
 nickname: blossom-thri

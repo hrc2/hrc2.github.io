@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Using Skin Texture Change To Design Emotion Expression In Social Robots"
-year: "2019"
+year: 2019
 shortref: "Hu & Hoffman. HRI 2019"
 shorttitle: "Using Skin Texture Change To Design Emotion Expression In Social Robots"
 nickname: goosebumps-hri19

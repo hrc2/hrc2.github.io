@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Toward integrating Theory of Mind into adaptive decision-making of social robots to understand human intention"
-year: "2017"
+year: 2017
 shortref: "Gorur et al. HRI 2017 Workshop"
 shorttitle: "Toward integrating Theory of Mind into adaptive decision-making of social robots to understand human intention"
 nickname: yolo-smallgroups
