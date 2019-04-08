@@ -178,3 +178,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  -
+    scope: 
+      path: "projects"
+    values:
+      excerpt_separator: <!--more-->

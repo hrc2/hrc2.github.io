@@ -10,27 +10,20 @@ navorder: 3
 {% for project in site.categories.projects %}
   <div class="row">
   <div class="col-md-12 projectbox">
-    {% if project.embargo %}
-    <div class="media">
-         <img width=100 class="media-object pull-right" src="{{ project.image }}"/>
-        <div class="media-body">
-          <div class="smallhead media-heading">
-          {{ project.title }}
-          </div>
-        </div>
-    </div>
-    {% else %}
    <div class="media">
         <a class="pull-left" href="{{ project.url }}">
-          <img width=100 class="media-object" src="{{ project.image }}">
+          <img width="100px" class="media-object" src="{{ project.image }}">
         </a>
-      <div class="media-body">
+      <div class="media-body project-text">
           <div class="smallhead media-heading">
           <a href="{{ project.url }}" class="off">{{ project.title }}</a>
           </div>
+          <div class="smallspacer"></div> 
+          <div class="note">
+            {{ project.excerpt }}
+          </div>
       </div>
     </div>
-    {% endif %}
   </div>
 </div><div class="bigspacer"></div>
 {% endfor %}

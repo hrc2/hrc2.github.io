@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Soft Skin Texture Modulation for Social Robotics"
-year: "2018"
+year: 2018
 shortref: "Hu, Zhao, Vimal & Hoffman. RoboSoft 2018"
 shorttitle: "Soft Skin Texture Modulation for Social Robotics"
 nickname: texture-RoboSoft
@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 
 authors: "Yuhan H., Zhao Z, Vimal A, & Hoffman G"
-image: /assets/images/papers/texture-robot.png
+image: texture-robot.jpg
 pdf: 
 pdflink:
 pubtype: conference
