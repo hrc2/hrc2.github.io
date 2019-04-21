@@ -6,12 +6,12 @@ shortref: "Deutsch et al. CiHB 2019"
 shorttitle: "Home Robotic Devices for Older Adults: Opportunities and Concerns"
 nickname: robots-olderadults
 journal: "Computers in Human Behavior"
-volume: 
+volume: 98
 issue: 
-pages: 
+pages: 122-133
 authors: "Deutsch, I., Erel, H., Paz, M., Hoffman, G., & Zuckerman, O."
 image: older-needs.png
-pdf: 
+pdf: DeutschetalCiHB19.pdf
 pdflink: 
 fulltext:  
 pubtype: journal
