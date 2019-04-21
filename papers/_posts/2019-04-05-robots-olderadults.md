@@ -11,7 +11,7 @@ issue:
 pages: 
 authors: "Deutsch, I., Erel, H., Paz, M., Hoffman, G., & Zuckerman, O."
 image: older-needs.png
-pdf: 
+pdf: DeutschetalCiHB19.pdf
 pdflink: 
 fulltext:  
 pubtype: journal
