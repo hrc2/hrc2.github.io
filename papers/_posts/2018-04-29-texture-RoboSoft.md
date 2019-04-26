@@ -11,7 +11,7 @@ issue:
 pages: 
 authors: "Yuhan H., Zhao Z, Vimal A, & Hoffman G"
 image: texture-robot.jpg
-pdf: 
+pdf: HuetalSoftRob18.pdf 
 pdflink:
 pubtype: conference
 github: 
