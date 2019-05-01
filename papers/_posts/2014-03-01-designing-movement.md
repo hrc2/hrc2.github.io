@@ -2,7 +2,7 @@
 layout: paper
 title: "Designing Robots with Movement in Mind"
 year: 2014
-shortref: "Hoffman & Ju. JHRI 2014"
+shortref: "Hoffman & Ju JHRI 2014"
 shorttitle: "Designing Robots with Movement in Mind"
 nickname: designing-movement
 journal: "Journal of HRI"
