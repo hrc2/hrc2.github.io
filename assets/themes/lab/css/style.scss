@@ -105,9 +105,8 @@ a.off {
 }
 
 .big-member-photo {
-	// width: 300px;
+	width: 100%;
 	max-width: 300px;
-	// height: 400px;
 }
 
 .member-photo {
@@ -173,6 +172,10 @@ strong {
 	text-shadow: 1.5px 1.5px #ffffff;
 }
 
+.fa-trophy {
+	color: rgb(22, 111, 163) ;
+}
+
 // navbar
 
 .navbar-brand { 
@@ -208,6 +211,10 @@ strong {
 .project-image {
 	width: 600px;
 	background-color: #FFFFCC;
+}
+
+.project-text {
+	max-width: 600px;
 }
 
 .paper-image {
@@ -277,7 +284,7 @@ strong {
 }
 
 .title {
-	font-size: 45px; 
+	font-size: 32px; 
 	line-height: 50px;
 	font-weight: 100;
 }

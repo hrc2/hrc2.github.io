@@ -1,26 +1,26 @@
 ---
 layout: paper
 title: "Blossom: A Handcrafted Open-Source Robot"
-year: "2019"
+year: 2019
 shortref: "Suguitan & Hoffman. THRI 2019"
 shorttitle: "Blossom: A Handcrafted Open-Source Robot"
 nickname: blossom-thri
-journal: "ACM Transactions on HRI"
+journal: "ACM Transactions on Human-Robot Interaction"
 volume: 8
 issue: 1
 pages: 1-2
 authors: "Suguitan, M., & Hoffman, G."
-image: /assets/images/papers/blossom-lbr.jpg
-pdf: 
-pdflink: https://dl.acm.org/citation.cfm?id=3310356 
-fulltext: 
+image: blossom-thri.jpg
+pdf: SuguitanHoffmanTHRI19.pdf
+pdflink:  
+fulltext: https://dl.acm.org/citation.cfm?id=3310356
 pubtype: journal
 github: 
 pmid:  
 pmcid: 
 f1000: 
 figshare: 
-doi: https://doi.org/10.1145/3310356
+doi: 10.1145/3310356
 category: papers
 published: true
 tags:
