@@ -6,9 +6,9 @@ shortref: "Hoffman. THMS 2019"
 shorttitle: "Evaluating Fluency in Human-Robot Collaboration"
 nickname: fluency-metrics
 journal: "IEEE Transactions on Human-Machine Systems"
-volume: 
-issue: 
-pages: 
+volume: 49
+issue: 3
+pages: 209-218
 authors: "Hoffman G."
 image: fluency-metrics.png
 pdf: HoffmanTHMS19.pdf
