@@ -1,4 +1,8 @@
 date,venue,title,project,selected,link
+2017-08-23,IEEE Spectrum,Blossom: A Handmade Approach to Social Robotics from Cornell and Google,blossom,yes,https://spectrum.ieee.org/automaton/robotics/home-robots/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google
+2017-08-23,Live Science,This Lumpy Robot Lends Endearing Touch to Social Bots,blossom,no,https://www.livescience.com/60307-blossom-soft-social-robot.html
+2017-09-06,FastCompany,A Robot Designed To Help Kids With Autism Learn Social Cues,blossom,no,https://www.fastcompany.com/90138641/a-robot-designed-to-help-kids-with-autism-learn-social-cues
+2017-12-01,AXIS Magazine,Emotional intelligence demonstrated by faceless robots wearing knits,blossom,no,http://www.axisinc.co.jp/english/magazine/vol/190.html
 2018-05-16,IEEE Spectrum,Feel What This Robot Feels Through Tactile Expressions,goosebumps,yes,https://spectrum.ieee.org/automaton/robotics/robotics-hardware/feel-what-this-robot-feels-through-tactile-expressions/
 2018-05-16,TechCrunch,This jolly little robot gets goosebumps,goosebumps,yes,https://techcrunch.com/2018/05/16/this-jolly-little-robot-gets-goosebumps/
 2018-05-17,TechXplore,Giving robots goosebumps and spikes to show emotion,goosebumps,no,https://techxplore.com/news/2018-05-robots-goosebumps-spikes-emotion.html/
@@ -55,3 +59,5 @@ date,venue,title,project,selected,link
 2019-04-02,Info Sur Hoy,People are much less motivated when working with robots,ebrd,no,https://infosurhoy.com/cocoon/saii/xhtml/en_GB/science/people-are-much-less-motivated-when-working-with-robots/
 2019-04-03,The Ladders,"Study: In human vs. robot competitions, humans give up",ebrd,no,https://www.theladders.com/career-advice/study-in-human-vs-robot-competitions-humans-give-up
 2019-05-21,Cornell Chronicle,"Soft, social robot brings coziness to home robotics",blossom,yes,http://news.cornell.edu/stories/2019/05/soft-social-robot-brings-coziness-home-robotics
+2019-05-23,Lab Roots,"Blossom: The Customizable Social Robot",blossom,no,https://www.labroots.com/trending/technology/14815/blossom-customizable-social-robot
+2019-05-23,The Sector,"The soft, comfy, social robots are coming, with children as young as four ready to learn",blossom,no,https://thesector.com.au/2019/05/23/the-soft-comfy-social-robots-are-coming-with-children-as-young-as-four-ready-to-learn/
