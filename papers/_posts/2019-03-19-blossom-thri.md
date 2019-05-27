@@ -13,7 +13,7 @@ authors: "Suguitan, M., & Hoffman, G."
 image: blossom-thri.jpg
 pdf: SuguitanHoffmanTHRI19.pdf
 pdflink:  
-fulltext: https://dl.acm.org/citation.cfm?id=3310356
+fulltext:
 pubtype: journal
 github: 
 pmid:  
