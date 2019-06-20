@@ -12,7 +12,7 @@ pages: 155-173
 authors: "Law M. & Dhawan N. & Bang H. & Selva D. & Yoon S. & Hoffman G."
 image: da-tui.jpg
 pdf:
-pdflink: LawDhawanBangSelvaYoonHoffman18.pdf
+pdf: LawDhawanBangSelvaYoonHoffman18.pdf
 pubtype: conference
 github:
 pmid:  
