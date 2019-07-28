@@ -1,0 +1,31 @@
+---
+layout: paper
+title: "Social robots for creativity stimulation in children"
+year: 2019
+shortref: "Alves-Oliveira et al. RSS Pioneers 2019"
+shorttitle: "Social robots for creativity stimulation in children"
+nickname: yolo-rss-pioneers
+journal: "Robotics: Science and Systems (RSS) Pioneers"
+volume:
+issue: 
+pages:
+authors: "Alves-Oliveira, P., Arriaga, P., Hoffman, G., & Paiva, A."
+image: interaction-yolo.png
+pdf: AlvesOliveiraRSSPioneers19.pdf
+pdflink: 
+fulltext:  
+pubtype: workshop
+github: 
+pmid:  
+pmcid: 
+f1000: 
+figshare: 
+doi: 10.1016/j.ohx.2019.e00074
+category: papers
+published: true
+tags:
+- [hardware design, personal fabrication, open access]
+---
+{% include JB/setup %}
+
+# Abstract 
