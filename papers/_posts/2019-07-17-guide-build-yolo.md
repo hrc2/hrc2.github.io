@@ -11,7 +11,7 @@ issue:
 pages: 1-15
 authors: "Alves-Oliveira, P., Arriaga, P., Paiva, A., & Hoffman, G."
 image: build-yolo.jpg
-pdf: Alves-OliveiraHardwareX19.pdf
+pdf: AlvesOliveiraHardwareX19.pdf
 pdflink: 
 fulltext:  
 pubtype: journal
