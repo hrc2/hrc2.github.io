@@ -23,6 +23,7 @@ figshare:
 doi: 10.1109/ROBOT.2010.5509182
 category: papers
 published: true
+award: Best Paper
 tags:
 - [HRI, improvisation]
 ---
