@@ -25,7 +25,7 @@ category: papers
 published: true
 Award: Best Paper
 tags:
-- [HRI, design, robotic companions, empathy]
+- [HRI, robotic companions, empathy]
 ---
 {% include JB/setup %}
 
