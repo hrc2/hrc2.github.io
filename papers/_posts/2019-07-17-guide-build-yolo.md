@@ -8,7 +8,7 @@ nickname: guide-build-yolo
 journal: "HardwareX"
 volume: 6
 issue: 
-pages: 1-15
+pages: 
 authors: "Alves-Oliveira, P., Arriaga, P., Paiva, A., & Hoffman, G."
 image: build-yolo.jpg
 pdf: AlvesOliveiraHardwareX19.pdf
