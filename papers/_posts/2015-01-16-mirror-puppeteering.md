@@ -24,7 +24,7 @@ doi: 10.1145/2677199.2680548
 category: papers
 published: true
 tags:
-- [robotics, puppeteering, animation, gesture authoring]
+- [robotics, puppeteering, animation]
 ---
 {% include JB/setup %}
 
