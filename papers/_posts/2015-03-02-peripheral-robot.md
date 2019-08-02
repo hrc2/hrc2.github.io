@@ -25,8 +25,7 @@ category: papers
 published: true
 Award: Best Paper
 tags:
-- [Human-robot interaction, design, robotic companions, behavior
-change, empathy, ambient kinetic tangibles, smartphone robots]
+- [HRI, design, robotic companions, empathy]
 ---
 {% include JB/setup %}
 
