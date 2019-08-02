@@ -23,7 +23,7 @@ figshare:
 doi: 10.1145/2696454.2696495
 category: papers
 published: true
-Award: Best Paper
+award: Best Paper
 tags:
 - [HRI, robotic companions, empathy]
 ---
