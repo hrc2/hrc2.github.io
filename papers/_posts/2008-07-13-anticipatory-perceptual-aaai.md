@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 1357-1362
 authors: "Hoffman, G., & Breazeal, C."
-image: anticipatory-perceptual.jpg
+image: anticipatory-perceptual.png
 pdf: HoffmanetalAAAI08.pdf
 pdflink: 
 fulltext:  
