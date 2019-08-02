@@ -23,7 +23,6 @@ figshare:
 doi: 10.1109/ROMAN.2008.4600691
 category: papers
 published: true
-award: Best Paper
 tags:[robotics, control]
 ---
 {% include JB/setup %}
