@@ -14,7 +14,7 @@ image: control-system2.png
 pdf: HoffmanetalROMAN08.pdf
 pdflink: 
 fulltext:  
-pubtype: conference
+pubtype: journal
 github: 
 pmid:  
 pmcid: 
@@ -30,4 +30,4 @@ tags:
 
 # Abstract 
 
-This paper describes a robotic puppeteering system used in a theatrical production involving one robot and two human performers on stage. We draw from acting theory and human-robot interaction to develop a hybrid-control puppeteering interface which combines reactive expressive gestures and parametric behaviors with a point-of-view eye contact module. Our design addresses two core considerations: allowing a single operator to puppeteer the robot’s full range of behaviors, and allowing for gradual replacement of human-controlled modules by autonomous subsystems. We wrote a play specifically for a performance between two humans and one of our research robots, a robotic lamp which embodied a lead role in the play. We staged three performances with the robot as part of a local festival of new plays. Though we have yet to perform a formal statistical evaluation of the system, we interviewed the actors and director and present their feedback about working with the system.
+This paper describes a robotic puppeteering system
