@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 582-587
 authors: "Hoffman, G., & Weinberg, G."
-image: jazz-improvisation.png
+image: jazz-improvisation.jpg
 pdf: HoffmanetalICRA10.pdf
 pdflink: 
 fulltext:  
