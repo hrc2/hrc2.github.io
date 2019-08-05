@@ -5,12 +5,12 @@ year: 2012
 shortref: "Hoffman ROMAN 2012"
 shorttitle: "Dumb robots, smart phones: A case study of music listening companionship"
 nickname: robots-olderadults
-journal: "21st IEEE International Symposium on Robot and Human Interactive Communication"
+journal: "21st IEEE In'l Symp. on Robot and Human Interactive Communication (RO-MAN)"
 volume:
 issue: 
 pages: 358-363
 authors: "Hoffman, G."
-image: dumb-smart.png
+image: robot-phone.png
 pdf: HoffmanROMAN12.pdf
 pdflink: 
 fulltext:  
@@ -23,7 +23,7 @@ figshare:
 doi: 10.1109/ROMAN.2012.6343779
 category: papers
 published: true
-Award: Best Paper Nomination
+award: Best Paper Nomination
 tags:
 - [studies, HRI]
 ---

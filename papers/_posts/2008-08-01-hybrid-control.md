@@ -2,15 +2,15 @@
 layout: paper
 title: "A Hybrid Control System for Puppeteering a Live Robotic Stage Actor"
 year: 2008
-shortref: "Hoffman et al. ROMAN 2008"
+shortref: "Hoffman et al. RO-MAN 2008"
 shorttitle: "A Hybrid Control System for Puppeteering a Live Robotic Stage Actor"
 nickname: hybrid-control
-journal: "17th IEEE International Symposium on Robot and Human Interactive Communication"
+journal: "17th IEEE Int'l Symp. on Robot and Human Interactive Communication (RO-MAN)"
 volume:
 issue: 
 pages: 354-359
 authors: "Hoffman, G., Kubat, R., & Breazeal, C."
-image: hybrid-control.png
+image: hybrid-ui.jpg
 pdf: HoffmanetalROMAN08.pdf
 pdflink: 
 fulltext:  

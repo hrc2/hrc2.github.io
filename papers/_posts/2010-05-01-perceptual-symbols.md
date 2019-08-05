@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Effects of Anticipatory Perceptual Simulation on Practiced Human-robot Tasks"
-year: 2011
-shortref: "Hoffman & Weinberg. AuRo 2011"
+year: 2010
+shortref: "Hoffman & Breazeal. AuRo 2011"
 shorttitle: "Effects of Anticipatory Perceptual Simulation on Practiced Human-robot Tasks"
 nickname: perceptual-symbols
 journal: "Autonomous Robots"
