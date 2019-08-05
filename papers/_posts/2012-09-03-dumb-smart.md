@@ -2,7 +2,7 @@
 layout: paper
 title: "Dumb robots, smart phones: A case study of music listening companionship"
 year: 2012
-shortref: "Hoffman ROMAN 2012"
+shortref: "Hoffman RO-MAN 2012"
 shorttitle: "Dumb robots, smart phones: A case study of music listening companionship"
 nickname: robots-olderadults
 journal: "21st IEEE In'l Symp. on Robot and Human Interactive Communication (RO-MAN)"
