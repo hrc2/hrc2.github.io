@@ -9,7 +9,7 @@ email: aoc29@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/anothina-carter.jpg
+image: /assets/images/team/anthonia-carter.jpg
 cv:
 alum: false
 ---
