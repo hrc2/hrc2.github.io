@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 358-363
 authors: "Hoffman, G."
-image: robot-phone.png
+image: music-companionship.png
 pdf: HoffmanROMAN12.pdf
 pdflink: 
 fulltext:  
