@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 358-363
 authors: "Hoffman, G."
-image: music-companionship.png
+image: music-companionship.jpg
 pdf: HoffmanROMAN12.pdf
 pdflink: 
 fulltext:  

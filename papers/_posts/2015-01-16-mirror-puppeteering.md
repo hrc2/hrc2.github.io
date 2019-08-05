@@ -10,7 +10,7 @@ volume:
 issue: 
 pages: 241-248 
 authors: "Slyper, R., Hoffman, G., & Shamir, A. "
-image: mirror-puppeteering.png
+image: mirror-puppeteering.jpg
 pdf: SlyperetalTEI15.pdf
 pdflink: 
 fulltext:  
