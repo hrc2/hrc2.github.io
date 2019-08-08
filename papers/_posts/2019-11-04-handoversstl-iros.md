@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Kshirsagar, A., Kress-Gazit, H., & Hoffman, G."
-image: handovers-stl.png
+image: handovers-stl-c.png
 pdf: KshirsagaretalIROS19.pdf
 pdflink:
 fulltext:  
