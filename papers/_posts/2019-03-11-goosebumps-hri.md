@@ -11,7 +11,7 @@ issue:
 pages: 
 authors: "Hu, Y. & Hoffman, G."
 image: goosbumps-hri.png
-pdf: YuHoffmanHRI19.pdf
+pdf: HuHoffmanHRI19.pdf
 pdflink:
 fulltext: 
 pubtype: conference
