@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "The Robot-Creativity Project"
-image: /assets/images/projects/creativity-project.png
+image: /assets/images/projects/creativity-project.jpg
 category: projects
 published: true
 tags: [design]
