@@ -12,9 +12,12 @@ The Robot-Creativity Project seeks to create robots capable of interacting with 
 
 <!--more-->
 
-**Collaborators: Patrícia Alves-Oliveira (ISCTE-IUL, Cornell, INESC-ID), Guy Hoffman (Cornell), Patrícia Arriaga (ISCTE-IUL), Ana Paiva (Instituto Superior Técnico, Universidade de Lisboa, INESC-ID)**
+Video: https://www.youtube.com/watch?v=BxPaOyfX3uQ&list=PLuUJZ_sqgykyabuES4FDihjj-JrkoL9Xh&index=12&t=0s
 
-Creativity is one of the most sought-after skills as we move from industrialized to creative economies. It is known to be an ability that can be stimulated and developed over time. The Robot-Creativity Project aims to use social robots as tools for stimulating creativity. The work performed so far includes the design and fabrication of a minimalist social robot that makes use of creative strategies grounded in psychological theories to boost creativity in children. This robot was developed with and for children, in a constant iterative design process, making use of rapid prototyping techniques. We envision children will use this robot as a toy to play with, providing new ideas for their play time. Idea generation is an important slice of the creative thought as it requires thinking outside of the box, making connections, and going beyond reality constraints – to float into imaginary worlds where everything is possible.
+
+Creativity is one of the most sought-after skills as we move from industrialized to creative economies. It is known to be an ability that can be stimulated and developed over time. The Robot-Creativity Project aims to use social robots as tools for stimulating creativity. The work involved in the project consisted on the design and fabrication of the hardware and software for an original social robot, named YOLO. The design of YOLO was grounded on creativity research literature and on iterative co-design sessions with children. Additionally, we have tested YOLO in schools and summer camps to investigate the effectiveness of this robot in stimulating convergent and divergent thinking processes, two important forms of the creative thought.
+
+**Collaborators: Patrícia Alves-Oliveira (ISCTE-IUL, Cornell, INESC-ID), Guy Hoffman (Cornell), Patrícia Arriaga (ISCTE-IUL), Ana Paiva (Instituto Superior Técnico, Universidade de Lisboa, INESC-ID)**
 
 **The Robot-Creativity Project is a collaboration between ISCTE-IUL and Intelligent Agents and Synthetic Characters Group (INESC-ID) in Lisbon, Portugal.**
 
