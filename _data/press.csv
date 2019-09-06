@@ -1,4 +1,5 @@
 date,venue,title,project,selected,link
+2017-05-31,New Scientist,"Hello, Robot: The show that braves the future",kip,no,https://www.newscientist.com/article/mg23431280-500-hello-robot-the-show-that-braves-the-future/
 2017-08-23,IEEE Spectrum,Blossom: A Handmade Approach to Social Robotics from Cornell and Google,blossom,yes,https://spectrum.ieee.org/automaton/robotics/home-robots/blossom-a-creative-handmade-approach-to-social-robotics-from-cornell-and-google
 2017-08-23,Live Science,This Lumpy Robot Lends Endearing Touch to Social Bots,blossom,no,https://www.livescience.com/60307-blossom-soft-social-robot.html
 2017-09-06,FastCompany,A Robot Designed To Help Kids With Autism Learn Social Cues,blossom,no,https://www.fastcompany.com/90138641/a-robot-designed-to-help-kids-with-autism-learn-social-cues
@@ -63,3 +64,5 @@ date,venue,title,project,selected,link
 2019-05-23,The Sector,"The soft, comfy, social robots are coming, with children as young as four ready to learn",blossom,no,https://thesector.com.au/2019/05/23/the-soft-comfy-social-robots-are-coming-with-children-as-young-as-four-ready-to-learn/
 2019-05-25,Daily Mail,"Unique KNITTED robots are being used to help teach maths to schoolchildren",blossom,no,https://www.dailymail.co.uk/sciencetech/article-7066661/Unique-KNITTED-robots-help-teach-maths-children.html
 2019-05-26,Boston Globe,"Robot in aisle 3: Retail turns more and more to machines",none,yes,https://www.bostonglobe.com/business/2019/05/26/robots-becoming-more-normal-retailers-roll-them-out/NWKMrr1XyrDOUd8X9vSUZM/story.html
+2019-05-28,Seminconductor Engineering,"Home Robots Get Cozier",blossom,no,https://semiengineering.com/system-bits-may-28/
+2019-07-19,The Cornell Daily Sun,"Visioning Grants Will Fund Research in Humanities, Science, Music in New York City",improv,no,https://cornellsun.com/2019/07/19/visioning-grants-will-fund-research-in-humanities-science-music-in-new-york-city/

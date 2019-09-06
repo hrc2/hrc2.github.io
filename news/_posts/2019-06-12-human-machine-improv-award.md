@@ -3,7 +3,7 @@ layout: news
 title: Cornell Funds Human and Machine Improvisation in Action Project
 author_handle: 
 category: posts
-published: false
+published: true
 ---
 
 Prof. Hoffman's proposal to study human and machine improvisation was selected as one of [three fully-funded projects]( https://news.cornell.edu/stories/2019/06/cornell-funds-projects-nyc-visioning-initiative) for Cornell's  New York City Visioning initiative.
