@@ -11,7 +11,7 @@ github: nikhildhawan117
 scholar: 
 image: /assets/images/team/nikhil-dhawan.jpg
 cv: 
-alum: false
+alum: true
 ---
 Nikhil Dhawan is a 3rd year undergraduate student and Rawlings Presidential Research Scholar working on introducing collaborative agents into design spaces. 
 

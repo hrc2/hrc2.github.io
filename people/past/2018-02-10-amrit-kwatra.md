@@ -11,7 +11,7 @@ github: amritkwatra
 scholar: 
 image: /assets/images/team/amrit-kwatra.jpg
 cv: 
-alum: false
+alum: true
 ---
 Amrit Kwatra is a Junior undergrad in the lab working on collaborative design.
 
