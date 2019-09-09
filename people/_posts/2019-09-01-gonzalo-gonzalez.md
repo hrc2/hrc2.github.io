@@ -13,4 +13,4 @@ image: /assets/images/team/gonzalo-gonzalez.jpg
 cv: 
 alum: false
 ---
-Gonzalo Gonzalez is an undergraduate student in Computer Science who is interested in artificial intelligence. He is working on the Human-Robot Collaborative Design project.
+Gonzalo Gonzalez is an undergraduate student in Computer Science who is interested in artificial intelligence. He is working on the Human-Robot Collaborative Design (HRCD) project.
