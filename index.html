@@ -113,9 +113,12 @@ categories:
 		</div>
 		<div class="bigspacer"></div>		
 	</div>-->	
-	<div class="col-md-6">
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+
+	<div class="col-md-4">
 		<div class="head">
-			<a class="off" href="/blog/">Recent News</a>
+			<a class="off" href="/news/">Recent News</a>
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">
@@ -126,7 +129,7 @@ categories:
 					{% endif %}
 				{% endfor %}		
 				<div class="note-title">
-					<i class="fa fa-comment-o fa-fw"></i>
+					<!-- i class="far fa-comment fa-fw"></i -->
 					<a class="off" href="{{ post.url }}">
 					{{ post.title }}
 					</a>
@@ -146,7 +149,7 @@ categories:
 		<div class="bigspacer"></div>		
 	</div>
 
-
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 
 	<div class="col-md-4">
 		<div class="head">
@@ -155,28 +158,51 @@ categories:
 		</div>
 		<div class="bigspacer"></div>
 		<div class="feedbox pad-left">		
-			{% for paper in site.categories.papers limit:4 %}
+			{% for paper in site.categories.papers limit: 8 %}
 				<div class="note-title">
-					<i class="fa fa-file-text-o fa-fw"></i>
 					<a class="off" href="{{ paper.url }}">
 					{{ paper.title }}
 					</a>
-					<br/>
+					{% if paper.award %}
+					<i class="fa fa-trophy fa-fw"></i>
+					{% endif %}
+					</div>
 					<div class='shortref note'>
 					{{ paper.shortref }}
+					<br/>Published {{ paper.date | date_to_string }}
 					</div>
-				</div>
-				<div class="smallspacer"></div>
-				<div class="smallnote">
-					Published
-					{{ paper.date | date_to_string }}
-				</div>
 				<div class="spacer"></div>	
 				<div class="spacer"></div>				
 			{% endfor %}
 		</div>
-		<div class="bigspacer"></div>		
+		<div class="spacer"></div>	
+		<a href="/papers/">More papers</a>
+		<div class="bigspacer"></div>
+
 	</div>
-</div>
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
+
+	<div class="col-md-4">
+		<div class="head">
+			<a class="off" href="/press/">Selected Press</a>
+		</div>
+		<div class="bigspacer"></div>
+		<div class="feedbox pad-left">
+			{% assign scoops = site.data.press | where: "selected", "yes" | sort: "date"  | reverse %}
+			{% for scoop in  scoops limit:10 %}
+			<div class="note">
+				 <a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> {{ scoop.date | date_to_string }}
+			</div>
+			<div class="spacer"></div>				
+			{% endfor %}
+			<div class="spacer"></div>		
+		</div>
+		<a href="/press/">More press coverage</a>
+		<div class="bigspacer"></div>		
+
+	</div>
+
+<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --->
 
 <div class="bigspacer"></div>

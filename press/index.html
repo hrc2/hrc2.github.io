@@ -1,0 +1,71 @@
+---
+layout: default
+title: "Press"
+description: "Press Coverage"
+group: navigation
+navorder: 6
+---
+{% include JB/setup %}
+
+
+<div class="pager">
+  
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+		<a class="prev" href="/{{ page.category }}/">
+			<i class="fa fa-chevron-left fa-lg"></i>
+		</a>
+		{% else %}
+		<a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
+			<i class="fa fa-chevron-left fa-lg"></i>
+		</a>
+		{% endif %}  		
+	{% endif %}  
+  
+	{% if paginator.next_page %}  
+	<a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
+		<i class="fa fa-chevron-right fa-lg"></i>
+	</a>	
+	{% endif %}  	
+    
+</div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			HRC<sup>2</sup> is in the news! Below you can find recent press coverage of projects in the human-robot collaboration &amp; companionship lab.
+		</div>
+	</div>		
+</div>
+
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+{% assign scoops = site.data.press | sort: "date" | reverse %}
+<div class="row">
+	<div class="col-md-12">
+
+{% for scoop in scoops  %}
+	{% if scoop.selected == "yes" %}
+		<div class="selected-press">
+	{% else %}
+		<div class="other-press">
+	{% endif %}
+		<a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> {{ scoop.date | date_to_string }}
+	</div>
+	<div class="spacer"></div>				
+{% endfor %}
+
+
+<!--div class="bigspacer"></div>	
+<div class="row">
+	<div class="col-md-12 text-center">
+		<a class="off" href="/{{ page.category }}/archive/">
+			<div class="smallhead">Archive</div>
+			<i class="text-gray fa fa-chevron-circle-down fa-2x"></i>
+		</a>
+	</div>
+</div -->
+
+
+<div class="bigspacer"></div>
