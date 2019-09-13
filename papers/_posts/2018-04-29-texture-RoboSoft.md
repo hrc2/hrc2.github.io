@@ -9,7 +9,7 @@ journal: "Proc. IEEE-RAS RoboSoft (2018)"
 volume: 
 issue: 
 pages: 
-authors: "Yuhan H., Zhao Z, Vimal A, & Hoffman G"
+authors: "Hu, Y., Zhao Z, Vimal A, & Hoffman G"
 image: texture-robot.jpg
 pdf: HuetalSoftRob18.pdf 
 pdflink:
