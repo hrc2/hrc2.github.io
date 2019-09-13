@@ -13,4 +13,4 @@ image: /assets/images/team/matthew-law.jpg
 cv:
 alum: false
 ---
-Matt is a 2nd year Ph.D student in the lab studying collaborative design between humans and robots in shared physical workspaces.
+Matt is a 4th year Ph.D student in the lab studying collaborative design between humans and robots in shared physical workspaces.
