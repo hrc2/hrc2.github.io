@@ -14,4 +14,4 @@ cv:
 alum: false
 ---
 
-Ji Hyun is a 1st year Ph.D student in the lab studying collaborative design between humans and robots in shared physical workspaces.
+JiHyun Jeong is a 2nd year Ph.D student in the lab studying trust in collaborative Human-Agent teams.
