@@ -11,7 +11,7 @@ github:
 scholar:
 image: /assets/images/team/preston-rozwood.jpg
 cv:
-alum: false
+alum: true
 ---
 
 Preston Rozwood is an undergraduate student in Information Science. He is working on the Blossom project and on designing a tangible interface for human-robot collaboration in policy design.
