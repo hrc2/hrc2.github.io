@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Angela Zhang"
-position: MPS Student
+position: MS Student
 field: Information Science
 nickname: angela-zhang
 handle: az337

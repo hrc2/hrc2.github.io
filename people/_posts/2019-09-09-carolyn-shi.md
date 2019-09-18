@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Carolyn Shi"
-position: MPS Student
+position: MS Student
 field: Information Science
 nickname: carolyn-shi
 handle: cs947
