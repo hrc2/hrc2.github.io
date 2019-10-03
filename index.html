@@ -169,7 +169,7 @@ categories:
 					</div>
 					<div class='shortref note'>
 					{{ paper.shortref }}
-					<br/>Published {{ paper.date | date_to_string }}
+					<!-- br/>Published {{ paper.date | date_to_string }} -->
 					</div>
 				<div class="spacer"></div>	
 				<div class="spacer"></div>				
@@ -192,7 +192,7 @@ categories:
 			{% assign scoops = site.data.press | where: "selected", "yes" | sort: "date"  | reverse %}
 			{% for scoop in  scoops limit:10 %}
 			<div class="note">
-				 <a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> {{ scoop.date | date_to_string }}
+				 <a href="{{scoop.link}}">{{scoop.title}}</a> - <b>{{scoop.venue}}</b> &nbsp; {{ scoop.date | date_to_string }}
 			</div>
 			<div class="spacer"></div>				
 			{% endfor %}
