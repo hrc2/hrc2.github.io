@@ -7,7 +7,7 @@ nickname: patricia-alvesoliveira
 handle: pa284
 email: patricia_alves_oliveira@iscte-iul.pt
 twitter: p_alvesoliveira
-github: 
+github: patricialvesoliveira
 scholar: TbN31LMAAAAJ&hl=pt-PT&oi=ao
 image: /assets/images/team/patricia-alvesoliveira.jpg
 cv: 
