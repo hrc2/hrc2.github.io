@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Using Skin Texture Change To Design Emotion Expression In Social Robots"
+title: "MoveAE: Modifying Affective Robot Movements Using Classifying Variational Autoencoders"
 year: 2019
 shortref: "Hu & Hoffman. HRI 2019"
 shorttitle: "Using Skin Texture Change To Design Emotion Expression In Social Robots"
