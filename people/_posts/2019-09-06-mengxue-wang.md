@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Mengxue Wang"
-position: MPS Student
+position: MEng Student
 field: Information Science
 nickname: mengxue-wang
 handle: mw955
