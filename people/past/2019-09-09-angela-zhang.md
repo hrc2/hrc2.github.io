@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Angela Zhang"
-position: MS Student
+position: MPS Student
 field: Information Science
 nickname: angela-zhang
 handle: az337
@@ -11,6 +11,6 @@ github: firieze
 scholar: 
 image: /assets/images/team/angela-zhang.jpg
 cv: 
-alum: false
+alum: true
 ---
 Angela Zhang is an MPS student working on UX design for Blossom.

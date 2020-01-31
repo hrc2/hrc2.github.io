@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Julia Katz"
-position: MS Student
+position: MPS Student
 field: Information Science
 nickname: julia-katz
 handle: jek342

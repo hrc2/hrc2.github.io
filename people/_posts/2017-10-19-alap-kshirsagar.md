@@ -13,4 +13,4 @@ image: /assets/images/team/alap-kshirsagar.jpg
 cv:
 alum: false
 ---
-Alap Kshirsagar is a 2nd year Ph.D student in the lab studying formal methods for human-robot interaction, and economic decision making with a robot.
+Alap Kshirsagar is a 3rd year Ph.D student in the lab studying formal methods for human-robot interaction, and economic decision making with a robot.

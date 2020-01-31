@@ -11,6 +11,6 @@ github:
 scholar: 
 image: /assets/images/team/siddharth-srinivasan.png
 cv: 
-alum: false
+alum: true
 ---
 Siddharth Srinivasan is an undergraduate student in Computer Science, finishing up his minor in music and beginning his MEng in Computer Science. Outside of the academic world he loves playing guitar, and is a passionate soccer fan. He is working on the Human-Robot Collaborative Design project.

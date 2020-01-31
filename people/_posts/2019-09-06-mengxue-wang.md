@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Mengxue Wang"
-position: MS Student
+position: MPS Student
 field: Information Science
 nickname: mengxue-wang
 handle: mw955
@@ -14,4 +14,4 @@ cv:
 alum: false
 ---
 
-Mengxue is a MS student with a background in Architecture. She is working on the Goosebumps project.
+Mengxue is a MPS student with a background in Architecture. She is working on the Goosebumps project.

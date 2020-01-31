@@ -11,7 +11,7 @@ github:
 scholar: 
 image: /assets/images/team/christina-chang.jpg
 cv: 
-alum: false
+alum: true
 ---
  
 Christina is a CS M.Eng. student with a background in Electrical and Computer Engineering. 

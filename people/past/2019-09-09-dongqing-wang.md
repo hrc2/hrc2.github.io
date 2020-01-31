@@ -11,6 +11,6 @@ github: HollyDQWang
 scholar: 
 image: /assets/images/team/dongqing-wang.jpg
 cv: 
-alum: false
+alum: true
 ---
 Dongqing Wang is a 3rd year undergraduate student working on software engineering for Blossom.
