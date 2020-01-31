@@ -9,7 +9,7 @@ email: sko35@cornell.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/shreshta-obla.jpg
+image: /assets/images/team/shreshta-obla.png
 cv: 
 alum: false
 ---
