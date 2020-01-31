@@ -19,9 +19,10 @@ navorder: 2
 {% assign phds = current | where: "name", "PhD Student"  | first | map: "items" | reverse %}
 {% assign mss = current | where: "name", "MS Student" | first | map: "items" | reverse %}
 {% assign mengs = current | where: "name", "MEng Student" | first | map: "items" | reverse %}
+{% assign mpss = current | where: "name", "MPS Student" | first | map: "items" | reverse %}
 {% assign ugs = current | where: "name", "Undergraduate Student" | first | map: "items" | reverse %}
 
-{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: ugs %}
+{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: mpss | concat: ugs %}
 
 {% assign memberindex = 0 %}
 {% for member in sorted %}

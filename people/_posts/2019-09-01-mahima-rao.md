@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Mahima Rao"
-position: MEng Student
+position: MPS Student
 field: Information Science
 nickname: mahima-rao
 handle: mr2296
