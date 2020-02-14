@@ -9,7 +9,7 @@ journal: "ACM/IEEE International  Conference on Human-Robot Interaction (HRI)"
 volume:
 issue:
 pages: 
-authors: "Suguitan, M. & Hoffman, G."
+authors: "Suguitan, M., Gomez, R., & Hoffman, G."
 image: moveae.png
 pdf: SuguitanHoffmanHRI20.pdf
 pdflink:
