@@ -1,6 +1,6 @@
 ---
 layout: member
-title: "Keyll Cheng"
+title: "Kelly Cheng"
 position: Undergraduate Student
 field: Computer Science
 nickname: kelly-cheng
