@@ -2,16 +2,16 @@
 layout: paper
 title: "Human-human-robot interaction: robotic object’s responsive gestures improve interpersonal evaluation in human interaction"
 year: 2020
-shortref: "Rifinski et al. CHI 2020"
+shortref: "Rifinski et al. HCI 2020"
 shorttitle: "Human-human-robot interaction"
 nickname: hhri-hci20
 journal: "Human–Computer Interaction"
-volume: 0
-issue: 0
-pages: 1-27
+volume: 
+issue: 
+pages: 
 authors: "Rifinski, D., Erel, H., Feiner, A., Hoffman, G. & Zuckerman, O."
 image: hhri-hci20.png
-pdf: RifinskietalHCI20.pdf
+# pdf: RifinskietalHCI20.pdf
 pdflink:
 fulltext:  
 pubtype: journal
