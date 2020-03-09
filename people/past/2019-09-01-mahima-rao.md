@@ -11,6 +11,6 @@ github:
 scholar: 
 image: /assets/images/team/mahima-rao.jpg
 cv: 
-alum: false
+alum: true
 ---
 Mahima Rao is an MPS student in Information Science with interests in inclusive design and adaptive UI via cognitive modeling. She is working on the Human-Robot Collaborative Design project.
