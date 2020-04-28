@@ -14,4 +14,4 @@ cv:
 alum: false
 ---
 
-JiHyun Jeong is a 2nd year Ph.D student in the lab studying trust in collaborative human-machine decision-making.
+JiHyun Jeong is a 2nd year Ph.D student in the lab. She's interested in social interactions and trust between humans and robots particularly in decision-making contexts. 

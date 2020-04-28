@@ -2,7 +2,7 @@
 layout: member
 title: "Wenkai Zuo"
 position: MEng Student
-field: Computer Science
+field: Mechanical Engineering
 nickname: wenkai-zuo
 handle: wz343 
 email: wz343@cornell.edu
