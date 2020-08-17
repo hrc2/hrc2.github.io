@@ -1,18 +1,14 @@
 ---
 layout: project
 title: "Human-Robot Object Handovers"
-image: /assets/images/projects/handovers-project.jpg
+image: /assets/images/projects/handovers-project-2020.jpg
 category: projects
 published: true
-tags: [control]
+tags: [control, studies]
 ---
 {% include JB/setup %}
 
-This project is aimed at exploring formal specifications, synthesis and model repair techniques for human-robot object handovers.
-<!--more-->
+In this work, we investigate the collaborative task of object handovers between a human and a robot. Object handovers are a central aspect of human-robot collaboration in both industrial and domestic environments. Tasks such as surgical assistance, housekeeping, rehabilitation assistance, eldercare, warehousing, and collaborative assembly require robots to give objects to humans and/or take objects from humans. Object handovers are challenging for robots as they involve coordination in both time and space of hand movements, grip forces, body postures, and non-verbal cues like gazes and pointing gestures. This project explores three research directions: First, we tackle the challenge of designing robot controllers to address various scenarios of human-robot handovers. Second, we investigate how can a robot use non-verbal cues to improve the human's experience and fluency of human-robot handovers. Third, we seek to provide new insights on human behavior and preferences in human-human and human-robot handovers.
 
-Object handovers are a central aspect of human-robot collaboration in both industrial and domestic environments. Examples include collaborative assembly, surgical assistance, housekeeping and rehabilitation assistance. These tasks require a robot to take objects from a human or give objects to them.
 
-We propose the automatic synthesis of robot controllers for human-robot object handovers from formal specifications. In contrast to existing controllers, this approach can provide formal guarantees on the timing of each of the handover phases. Using synthesis also allows end-users to specify and dynamically change the robot’s behaviors using high-level requirements of goals and constraints rather than by tuning low-level controller parameters. We are currently implementing this approach on a collaborative robot arm and we will evaluate it’s usability through human-participant experiments.
-
-**Collaborators: Alap Kshirsagar, Hadas Kress-Gazit, and Guy Hoffman (Cornell).**
+**Collaborators: Alap Kshirsagar (Cornell), Melanie Lim (Cornell), Shemar Christian (Cornell), Tair Sela (BGU), Yael Edan (BGU), Armin Biess (BGU), Hadas Kress-Gazit (Cornell), and Guy Hoffman (Cornell).**
