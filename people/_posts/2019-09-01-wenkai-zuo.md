@@ -1,16 +1,16 @@
 ---
 layout: member
 title: "Wenkai Zuo"
-position: MEng Student
+position: MBA Student
 field: Mechanical Engineering
 nickname: wenkai-zuo
-handle: wz343 
+handle: wz343
 email: wz343@cornell.edu
-twitter: 
-github: 
-scholar: 
+twitter:
+github:
+scholar:
 image: /assets/images/team/wenkai-zuo.jpg
-cv: 
+cv:
 alum: false
 ---
 Wenkai Zuo is an M.Eng. student in Mechanical Engineering. He is interested in design, fabrication, and robotics. He is working on the Human-Robot Collaborative Design project.

@@ -20,9 +20,10 @@ navorder: 2
 {% assign mss = current | where: "name", "MS Student" | first | map: "items" | reverse %}
 {% assign mengs = current | where: "name", "MEng Student" | first | map: "items" | reverse %}
 {% assign mpss = current | where: "name", "MPS Student" | first | map: "items" | reverse %}
+{% assign mbas = current | where: "name", "MBA Student" | first | map: "items" | reverse %}
 {% assign ugs = current | where: "name", "Undergraduate Student" | first | map: "items" | reverse %}
 
-{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: mpss | concat: ugs %}
+{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: mpss | concat: mbas | concat: ugs %}
 
 {% assign memberindex = 0 %}
 {% for member in sorted %}
@@ -42,7 +43,7 @@ navorder: 2
 				<p class="note">{{ member.field }}</p>
 				</div>
 		</div>
-    </div>	  
+    </div>
 	{% if colindex == 0 %} <!-- closing a row -->
 	</div><div class="bigspacer"></div>
 	{% endif %}
@@ -68,7 +69,7 @@ navorder: 2
 <!-- my sort of involved way of sorting by "degree" - there may be a better way -->
 {% assign alums = site.data.alums | group_by: "degree" %}
 
-{% assign degrees = "MS,MEng,MPS,Undergraduate" | split: ',' %}
+{% assign degrees = "PhD,MS,MEng,MPS,Undergraduate" | split: ',' %}
 {% for deg in degrees %}
 	<h1>{{ deg }}</h1>
 	{% assign sgroup = alums | where: "name", deg | first | map: "items" | reverse %}
