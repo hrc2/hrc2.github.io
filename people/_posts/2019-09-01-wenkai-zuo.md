@@ -9,7 +9,7 @@ email: wz343@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/wenkai-zuo.jpg
+image: /assets/images/people/wenkai-zuo.jpg
 cv:
 alum: false
 ---

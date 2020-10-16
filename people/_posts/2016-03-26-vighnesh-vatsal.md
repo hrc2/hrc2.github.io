@@ -6,13 +6,13 @@ field: Mechanical Engineering
 nickname: vighnesh-vatsal
 handle: vighnesh
 email: vv94@cornell.edu
-twitter: 
+twitter:
 github: vighv
 scholar: U8sX8OAAAAAJ
-image: /assets/images/team/vighnesh-vatsal.jpg
-cv: 
+image: /assets/images/people/vighnesh-vatsal.jpg
+cv:
 alum: false
 ---
-Vighnesh Vatsal is a 5th year Ph.D candidate in the lab, working on collaboration with [wearable robotics](http://hrc2.io/projects/ThirdArm). 
+Vighnesh Vatsal is a 5th year Ph.D candidate in the lab, working on collaboration with [wearable robotics](http://hrc2.io/projects/ThirdArm).
 
 

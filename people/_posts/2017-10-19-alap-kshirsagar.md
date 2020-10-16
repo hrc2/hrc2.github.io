@@ -9,7 +9,7 @@ email: ak2458@cornell.edu
 twitter: AlapKshirsagar
 github: alapkshirsagar
 scholar: As8oQQkAAAAJ
-image: /assets/images/team/alap-kshirsagar.jpg
+image: /assets/images/people/alap-kshirsagar.jpg
 cv:
 alum: false
 ---

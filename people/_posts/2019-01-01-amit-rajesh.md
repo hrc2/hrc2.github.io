@@ -9,7 +9,7 @@ email: ar883@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/amit-rajesh.jpg
+image: /assets/images/people/amit-rajesh.jpg
 cv:
 alum: false
 ---

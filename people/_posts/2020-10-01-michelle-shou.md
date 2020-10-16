@@ -3,14 +3,15 @@ layout: member
 title: "Michelle Shou"
 position: Undergraduate Student
 field: Computer Science
-nickname: tinsae-giblin
-handle: tbd
-email: tbd@cornell.edu
+nickname:
+handle: mcs349
+email: mcs349@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/anonymous-robot.svg
+image: /assets/images/people/michelle-shou.jpg
 cv:
 alum: false
 ---
-TBD.
+
+Michelle Shou is an undergraduate student in Computer Science. She is working on a lightweight testbed for the ASIST project.

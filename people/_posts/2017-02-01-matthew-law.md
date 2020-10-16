@@ -9,7 +9,7 @@ email: mvl24@cornell.edu
 twitter:
 github: mattvlaw
 scholar:
-image: /assets/images/team/matthew-law.jpg
+image: /assets/images/people/matthew-law.jpg
 cv:
 alum: false
 ---

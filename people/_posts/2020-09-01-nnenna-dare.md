@@ -9,7 +9,7 @@ email: ned43@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/anonymous-robot.svg
+image: /assets/images/people/anonymous-robot.svg
 cv:
 alum: false
 ---

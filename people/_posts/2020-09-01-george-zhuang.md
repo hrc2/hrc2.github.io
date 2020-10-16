@@ -3,14 +3,15 @@ layout: member
 title: "George Zhuang"
 position: Undergraduate Student
 field: Computer Science
-nickname: george-zhuang
+nickname:
 handle: xgz2
 email: xgz2@cornell.edu
 twitter:
-github:
+github: xgz2
 scholar:
-image: /assets/images/team/anonymous-robot.svg
+image: /assets/images/people/george-zhuang.jpg
 cv:
 alum: false
 ---
-George Zhuang is studying Computer Science and working on the Human-Robot Collaborative Design project.
+
+George Zhuang is an undergraduate student in Computer Science. He is working on the Human-Robot Collaborative Design project.

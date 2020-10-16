@@ -9,7 +9,7 @@ email: njh84@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/nikki-hart.jpg
+image: /assets/images/people/nikki-hart.jpg
 cv:
 alum: false
 ---

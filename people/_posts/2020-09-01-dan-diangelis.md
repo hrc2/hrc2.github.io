@@ -9,7 +9,7 @@ email: dmd354@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/dan-diangelis.jpg
+image: /assets/images/people/dan-diangelis.jpg
 cv:
 alum: false
 ---

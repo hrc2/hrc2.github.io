@@ -4,13 +4,14 @@ title: "Tinsae Giblin"
 position: Undergraduate Student
 field: Mechanical Engineering
 nickname: tinsae-giblin
-handle: tbd
-email: tbd@cornell.edu
+handle: tg328
+email: tg328@cornell.edu
 twitter:
 github:
 scholar:
-image: /assets/images/team/anonymous-robot.svg
+image: /assets/images/people/tinsae-giblin.jpg
 cv:
 alum: false
 ---
-TBD.
+Tinsae Giblin is an undergraduate student in Mechanical Engineering. She is working on the Robotic Musical Instrument project.
+
