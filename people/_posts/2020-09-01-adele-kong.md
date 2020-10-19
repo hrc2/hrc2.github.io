@@ -1,11 +1,11 @@
 ---
 layout: member
-title: "Melody Yu"
+title: "Adele Kong"
 position: Undergraduate Student
-field: TBD
-nickname: melody-yu
-handle: tbd
-email: tbd@cornell.edu
+field: Mechanical Engineering
+nickname: adele-kong
+handle: ak2333
+email: ak2333@cornell.edu
 twitter:
 github:
 scholar:
