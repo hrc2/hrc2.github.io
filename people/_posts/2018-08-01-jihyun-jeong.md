@@ -5,13 +5,13 @@ position: PhD Student
 field: Information Science
 nickname: jihyun-jeong
 handle: jj639
-email: jj639@cornell.edu
-twitter:
+email: jihyun@infosci.cornell.edu
+twitter: _jihyunjeong
 github:
-scholar:
+scholar: gkypPFAAAAAJ
 image: /assets/images/people/jihyun-jeong.jpg
 cv:
 alum: false
 ---
 
-JiHyun Jeong is a 2nd year Ph.D student in the lab. She's interested in social interactions and trust between humans and robots particularly in decision-making contexts.
+[JiHyun Jeong](http://infosci.cornell.edu/~jihyun/) is a Ph.D student in the lab. She's interested in making robots socially intelligent and trustworthy for humans to collaborate with, particularly in joint decision-making contexts.
