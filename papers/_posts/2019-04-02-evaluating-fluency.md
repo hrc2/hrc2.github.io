@@ -22,6 +22,7 @@ f1000:
 figshare: 
 doi: 10.1109/THMS.2019.2904558
 category: papers
+award: Best Transactions Paper Award
 published: true
 tags:
 - [fluency, collaboration]
