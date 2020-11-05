@@ -12,7 +12,7 @@ The Robot-Creativity Project seeks to create robots capable of interacting with 
 
 <!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BxPaOyfX3uQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/e-K3J5UZ9M4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Collaborators:
 [Patrícia Alves-Oliveira](https://patricialvesoliveira.com/), [Guy Hoffman](http://guyhoffman.com/), [Patrícia Arriaga](https://ciencia.iscte-iul.pt/authors/patricia-paula-lourenco-arriaga-ferreira/cv), and [Ana Paiva](https://ana-paiva.com/).
