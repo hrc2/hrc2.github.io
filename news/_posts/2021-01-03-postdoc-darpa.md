@@ -16,19 +16,21 @@ published: true
 
 **TIMELINE:**
 
-Starting date:  March 1st or as soon as possible thereafter; flexible.
-Duration: One year, with possibility for extension to second year.
+- Applications received by 5 Feb. 2021 will be fully considered. Applications will continue to be reviewed until position is filled.
+- Starting date: 1 Apr. 2021 or as soon as possible thereafter.
+- Duration: One year, with possibility for extension to second year.
+
 
 **DESCRIPTION:**
 
-As part of a DARPA project on teamwork, we are seeking a postdoc interested in developing probabilistic models of trust in teamwork. This project includes building and evaluating Bayesian models, running experiments, and analyzing complex experimental data. This is a highly collaborative project involving many PIs and is most appropriate for a candidate who enjoys collaboration and communication.
+As part of a DARPA project on teamwork, we are seeking a postdoc interested in developing probabilistic models of trust in teamwork. This project includes building and evaluating Bayesian models, running experiments, and analyzing complex experimental data. This is a highly collaborative project involving many researchers from around the US, and is therefore most appropriate for a candidate who enjoys collaboration and communication.
 
 - [https://www.darpa.mil/program/artificial-social-intelligence-for-successful-teams](https://www.darpa.mil/program/artificial-social-intelligence-for-successful-teams)
 
 **QUALIFICATIONS:**
 
 - CS / InfoSci / Data Science / Psych Ph.D with experience in probabilistic models, with preference for human-agent interaction
-- Experience in [or keen interest to learn about] programming experimental testing environments
+- Preferred: Experience in [or keen interest to learn about] programming experimental testing environments
 - Excellent writing skills
 - Ability to work independently and make decisions
 - Strong initiative and idea-generating approach
@@ -50,7 +52,7 @@ Please send a short email to Prof. Hoffman with the following attachments.
 - CV
 - Link to list of publications
 - Two representative publications (at least one journal paper)
-- Contact information for two references (will be contacted after initial interview with candidate)
+- Contact information for two references (may be contacted after initial interview with candidate)
 
 Please focus on the above items and do not spend time on formalities such as a cover letter, research statement, etc.
 

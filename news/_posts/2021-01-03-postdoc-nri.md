@@ -16,12 +16,13 @@ published: true
 
 **TIMELINE:**
 
-Starting date:  March 1st or as soon as possible thereafter; flexible.
-Duration: One year, with possibility for extension to second year.
+- Applications received by 5 Feb. 2021 will be fully considered. Applications will continue to be reviewed until position is filled.
+- Starting date: 1 Apr. 2021 or as soon as possible thereafter.
+- Duration: One year, with possibility for extension to second year.
 
 **DESCRIPTION:**
 
-As part of a National Robotics Initiative (NRI) project on collaborative wearable robotics, we are seeking a postdoc interested in algorithms for fluent human-robot coordination. The project includes developing probabilistic inference and decision-making methods for robots that have the added uncertainty and safety considerations of being worn by a human. The research can be broader than just wearable robotics, and can include any theoretical, computational, and systems contribution related to human-robot coordination and collaboration.
+As part of a National Robotics Initiative (NRI) project on collaborative wearable robotics, we are seeking a postdoc interested in algorithms for fluent human-robot coordination. The project includes developing probabilistic inference and decision-making methods for robots that have the added uncertainty and safety considerations of being worn by a human. The research can be broader than just wearable robotics, and can include any theoretical, computational, and systems contribution related to human-robot coordination and collaboration in general.
 
 - [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734399](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1734399)
 - [https://hrc2.io/papers/design-analysis-wra](https://hrc2.io/papers/design-analysis-wra)
@@ -29,7 +30,7 @@ As part of a National Robotics Initiative (NRI) project on collaborative wearabl
 **QUALIFICATIONS:**
 
 - CS / MechE / ECE Ph.D with experience in AI for human-agent interaction and/or robotics, with preference for human-robot interaction
-- Experience in [or keen interest to learn about] working on physical robotic systems
+- Preferred: Experience in [or keen interest to learn about] working on physical robotic systems
 - Excellent writing skills
 - Ability to work independently and make decisions
 - Strong initiative and idea-generating approach
@@ -51,7 +52,7 @@ Please send a short email to Prof. Hoffman with the following attachments.
 - CV
 - Link to list of publications
 - Two representative publications (at least one journal paper)
-- Contact information for two references (will be contacted after initial interview with candidate)
+- Contact information for two references (may be contacted after initial interview with candidate)
 
 Please focus on the above items and do not spend time on formalities such as a cover letter, research statement, etc.
 
