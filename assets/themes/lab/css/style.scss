@@ -82,8 +82,8 @@ p {
 	height: 5px;
 }
 
-a.off { 
-	color: inherit; 
+a.off {
+	color: inherit;
 	border-bottom: none;
 }
 
@@ -138,6 +138,10 @@ a.off {
 	font-size: $font-size-base*2;
 }
 
+.date {
+  margin-bottom: 1em;
+}
+
 // emphases
 
 term {
@@ -166,7 +170,7 @@ strong {
 	padding-left:50px;
 	line-height: 65px;
 	font-weight: $heavy-font-weight;
-	display: table-cell; 
+	display: table-cell;
 	vertical-align: middle;
 	text-align: left;
 	text-shadow: 1.5px 1.5px #ffffff;
@@ -178,14 +182,14 @@ strong {
 
 // navbar
 
-.navbar-brand { 
-	font-size: 20px; 
+.navbar-brand {
+	font-size: 20px;
 	padding-left: 50px;
 	font-weight: $font-weight-base;
 }
 
-.navbar-nav { 
-	font-size: 20px; 
+.navbar-nav {
+	font-size: 20px;
 	font-weight: $font-weight-base;
 	a {
 		color: black;
@@ -256,7 +260,7 @@ strong {
   bottom:0px;
 }
 
-.carousel-overlay { 
+.carousel-overlay {
 	position:absolute;
 	z-index:12;
 	top:50%;
@@ -284,13 +288,13 @@ strong {
 }
 
 .title {
-	font-size: 32px; 
+	font-size: 32px;
 	line-height: 50px;
 	font-weight: 100;
 }
 
 .bigtitle {
-	font-size: 45px; 
+	font-size: 45px;
 	line-height: 55px;
 	font-weight: 100;
 }
@@ -359,7 +363,7 @@ strong {
 
 	h1 {
 
-	}	
+	}
 }
 .smallnote {
 	@extend %note;
@@ -369,7 +373,7 @@ strong {
 }
 
 .journal-title {
-	
+
 }
 
 .journal {
