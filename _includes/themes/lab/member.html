@@ -19,8 +19,9 @@
 			<br/>
 			<div class="smallhead">
 				{{ member.position }}
-			in
-				{{ member.field }}
+			{% if member.field %}
+			in {{ member.field }}
+			{% endif %}	
 			</div>
 		</div>
 	</div>				
