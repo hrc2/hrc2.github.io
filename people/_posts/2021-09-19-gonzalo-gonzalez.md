@@ -13,4 +13,4 @@ image: /assets/images/people/gonzalo-gonzalez.jpg
 cv: /assets/pdfs/cvs/gonzalo-gonzalez-cv.pdf
 alum: false
 ---
-Gonzalo Gonzalez is a fourth-year undergraduate student in Computer Science working on the HIRO project.
+Gonzalo Gonzalez is a fourth-year undergraduate student in Computer Science working on the Home Ideation Robot (HIRO) project.
