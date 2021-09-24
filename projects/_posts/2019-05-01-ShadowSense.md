@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "ShadowSense - Detecting Human Touch in a Social Robot"
-image: /assets/images/projects/shadowsense.png
+image: /assets/images/projects/shadowsense.jpg
 category: projects
 published: true
 tags: [design]
