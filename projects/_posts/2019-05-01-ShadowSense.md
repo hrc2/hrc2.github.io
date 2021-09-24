@@ -15,7 +15,7 @@ ShadowSense is a low-tech, low-cost touch sensing method to recognize touch gest
 
 **Collaborators: Yuhan Hu, Sara Bejarano, Guy Hoffman, Emilie Baker, Kirstin Petersen, Hadas Kress-Gazit, Christina Chang, and Jijie Zhou (Cornell).**
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Jr4b6qaK4fg&t=4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jr4b6qaK4fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A camera inside a robot’s body captures the shadows created by touching its skin, or even hovering over the skin, detecting both touch positions and social gestures. We use a a Densely Connected Convolutional Neural Network to recognize touch gestures from shadow images. In an experiment, we evaluated six interaction gestures: a palm touch, punch, two hands, hug, point, and nothing. The classifier was evaluated with three lighting conditions: daylight, dusk, and night. The results showed high accuracy in gesture recognition, between 87.5% and 96.0%, dependent on the lighting. 
 
