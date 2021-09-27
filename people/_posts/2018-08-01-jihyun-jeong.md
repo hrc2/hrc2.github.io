@@ -6,7 +6,7 @@ field: Information Science
 nickname: jihyun-jeong
 handle: jj639
 email: jihyun@infosci.cornell.edu
-twitter: _jihyunjeong
+twitter:
 github:
 scholar: gkypPFAAAAAJ
 image: /assets/images/people/jihyun-jeong.jpg
