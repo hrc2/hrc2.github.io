@@ -13,4 +13,4 @@ image: /assets/images/team/cheng-chang.jpg
 cv: 
 alum: false
 ---
-Cheng Chang is an undergraduate student majoring in Mechanical Engineering. She is currently working on the behavioral side of the human-robot collaborative design project.
+Cheng Chang is an undergraduate student majoring in Mechanical Engineering. She is working on the Blossom project.
