@@ -9,7 +9,7 @@ email: cc2238@cornell.edu
 twitter: 
 github: 
 scholar: 
-image: /assets/images/team/cheng-chang.jpg
+image: /assets/images/people/cheng-chang.jpg
 cv: 
 alum: false
 ---
