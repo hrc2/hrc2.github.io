@@ -2,7 +2,7 @@
 layout: paper
 title: "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers"
 year: 2022
-shortref: "Kshirsagar et al. IJSR 2020"
+shortref: "Kshirsagar et al. IJSR 2022"
 shorttitle: "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers"
 nickname: handoversgaze-ijsr
 journal: "International Journal of Social Robotics"
