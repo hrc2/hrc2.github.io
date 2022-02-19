@@ -11,6 +11,6 @@ github:
 scholar:
 image: /assets/images/people/david-bruk-rodriguez.jpg
 cv:
-alum: false
+alum: true
 ---
 David Bruk-Rodriguez is an undergraduate student majoring in Biomedical Engineering and minoring in Mechanical Engineering. He is working on the Bimanual Handovers Project.
