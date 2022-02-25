@@ -1,3 +1,4 @@
+---
 layout: member
 title: Alexander Allen 
 position: Undergraduate Student
