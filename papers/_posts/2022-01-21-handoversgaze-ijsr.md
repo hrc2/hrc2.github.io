@@ -11,7 +11,7 @@ issue:
 pages: 1-18
 authors: "Faibish, T., Kshirsagar, A., Hoffman, G., & Edan, Y."
 image: handover-gaze-ijsr.jpg
-pdf: FaibishetalIJSR2022.pdf
+pdf: FaibishetalIJSR22.pdf
 pdflink:
 fulltext:  
 pubtype: journal

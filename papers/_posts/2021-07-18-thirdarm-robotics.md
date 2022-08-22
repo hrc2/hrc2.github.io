@@ -12,7 +12,7 @@ pages: 19
 authors: "Vatsal, V., & Hoffman, G."
 image: thirdarm-robotics.jpg
 pdf: VatsalHoffmanRobotics21.pdf
-pdflink:  https://www.mdpi.com/2218-6581/10/3/91/pdf
+pdflink:  
 fulltext: https://www.mdpi.com/2218-6581/10/3/91
 pubtype: journal
 github: 
