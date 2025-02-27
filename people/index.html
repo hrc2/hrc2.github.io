@@ -16,6 +16,7 @@ navorder: 2
 {% assign current = site.categories.people | where: "alum","false" | group_by: "position" %}
 
 {% assign pi = current | where: "name", "Principal Investigator"  %}
+{% assign pdocs = current | where: "name", "Postdoctoral Associate"  | first | map: "items" | reverse %}
 {% assign phds = current | where: "name", "PhD Student"  | first | map: "items" | reverse %}
 {% assign mss = current | where: "name", "MS Student" | first | map: "items" | reverse %}
 {% assign mengs = current | where: "name", "MEng Student" | first | map: "items" | reverse %}
@@ -23,7 +24,7 @@ navorder: 2
 {% assign mbas = current | where: "name", "MBA Student" | first | map: "items" | reverse %}
 {% assign ugs = current | where: "name", "Undergraduate Student" | first | map: "items" | reverse %}
 
-{% assign sorted = pi[0]["items"] | concat: phds | concat: mss | concat: mengs | concat: mpss | concat: mbas | concat: ugs %}
+{% assign sorted = pi[0]["items"] | concat: pdocs | concat: phds | concat: mss | concat: mengs | concat: mpss | concat: mbas | concat: ugs %}
 
 {% assign memberindex = 0 %}
 {% for member in sorted %}
