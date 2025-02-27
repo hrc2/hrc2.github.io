@@ -1,11 +1,11 @@
 ---
 layout: member
 title: Ji Hyun Jeong
-position: PhD Student
-field: Information Science
+position: Postdoctoral Associate
+field: Mechanical Engineering
 nickname: jihyun-jeong
 handle: jj639
-email: jihyun@infosci.cornell.edu
+email: jj639@cornell.edu
 twitter:
 github:
 scholar: gkypPFAAAAAJ
@@ -14,4 +14,4 @@ cv:
 alum: false
 ---
 
-[JiHyun Jeong](http://infosci.cornell.edu/~jihyun/) is a Ph.D student in the lab. She's interested in making robots socially intelligent and trustworthy for humans to collaborate with, particularly in joint decision-making contexts.
+JiHyun Jeong is a Postdoctoral Associate working on agents that support creativity and cooperation in teams. She holds a PhD in Information Science from Cornell University, where she studied human-computer interaction with a focus on examining the effects of autonomous agent behaviors on collaborative performance and social dynamics.
