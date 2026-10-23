@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 132-139
 authors: "Hoffman, G."
-image:
+image: placeholder-paper.png
 pdf:
 pdflink:
 fulltext:

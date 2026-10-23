@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1-16
 authors: "Neto, I., Hu, Y., Correia, F., Rocha, F., Hoffman, G., Nicolau, H., & Paiva, A."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 603-611
 authors: "Hu, Y., Ryu, J., Gundana, D., Petersen, K. H., Kress-Gazit, H., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Guo, S. G., Yu, J. J., Niu, W., Gao, Y., Hoffman, G., Leshed, G., & Green, K. E."
-image:
+image: mutual-gaze-hri.jpg
 pdf:
 pdflink:
 fulltext:

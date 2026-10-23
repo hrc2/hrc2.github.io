@@ -10,7 +10,7 @@ volume: 41
 issue: 2
 pages: 1569-1584
 authors: "Lee, S. Y., Law, M., & Hoffman, G."
-image:
+image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

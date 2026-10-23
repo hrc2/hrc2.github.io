@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 2481-2496
 authors: "Hu, Y., Lu, J., Scinto-Madonich, N., Pineros, M. A., Lopes, P., & Hoffman, G."
-image:
+image: plant-driven-actuators.jpg
 pdf:
 pdflink:
 fulltext:

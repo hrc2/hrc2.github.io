@@ -10,7 +10,7 @@ volume:
 issue:
 pages:
 authors: "Kamino, W., Wen-Yi, A. W., Hoffman, G., Šabanović, S., & Jung, M. F."
-image:
+image: robot-umpire-hri.jpg
 pdf:
 pdflink:
 fulltext:

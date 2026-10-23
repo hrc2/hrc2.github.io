@@ -10,7 +10,7 @@ volume: 48
 issue:
 pages: 109277
 authors: "Kshirsagar, A., Fortuna, R., Xie, Z., & Hoffman, G."
-image:
+image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

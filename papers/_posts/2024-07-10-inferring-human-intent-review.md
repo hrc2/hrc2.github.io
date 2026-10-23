@@ -10,7 +10,7 @@ volume: 7
 issue: 1
 pages: 73-95
 authors: "Hoffman, G., Bhattacharjee, T., & Nikolaidis, S."
-image:
+image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

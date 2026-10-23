@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1013-1020
 authors: "Hu, Y., Ray, P., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

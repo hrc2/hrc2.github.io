@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1313-1320
 authors: "Kshirsagar, A., Ravi, R. K., Kress-Gazit, H., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

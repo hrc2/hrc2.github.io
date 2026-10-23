@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1324-1328
 authors: "Guo, G. S., Yang, Q., Hu, R., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

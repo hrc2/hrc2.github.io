@@ -10,7 +10,7 @@ volume: 17
 issue: 3
 pages: 473-504
 authors: "Hauser, K., Watson, E., Bae, J., Bankston, J., Behnke, S., Borgia, B., Catalano, M. G., Dafarra, S., van Erp, J. B. F., Ferris, T., Fishel, J., Hoffman, G., Ivaldi, S., Kanehiro, F., Kheddar, A., Lannuzel, G., Morie, J. F., Naughton, P., NGuyen, S., Oh, P., Padir, T., Pippine, J., Park, J., Vaz, J., Pucci, D., Whitney, P., Wu, P., & Locke, D."
-image:
+image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

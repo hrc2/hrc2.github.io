@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 52-57
 authors: "Kshirsagar, A., Faibish, T., Hoffman, G., & Biess, A."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

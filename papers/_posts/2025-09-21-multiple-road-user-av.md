@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 339-350
 authors: "Jeong, J., Goedicke, D., Ju, W., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

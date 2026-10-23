@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1164-1166
 authors: "Kshirsagar, A., & Hoffman, G."
-image:
+image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

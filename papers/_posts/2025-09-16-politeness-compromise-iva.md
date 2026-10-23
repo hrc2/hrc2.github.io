@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 1-9
 authors: "Jeong, J., & Hoffman, G."
-image:
+image: politeness-compromise-iva.jpg
 pdf:
 pdflink:
 fulltext:

@@ -10,7 +10,7 @@ volume: 10
 issue: 6
 pages: 1-32
 authors: "Kim, H., Jang, Y., Sakashita, M., Woodard, B., Suwabe, Y., Imogu, D. I., Liu, X., Hoffman, G., & Guimbretière, F."
-image:
+image: cscw-teleop.jpg
 pdf:
 pdflink:
 fulltext:
