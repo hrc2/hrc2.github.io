@@ -11,7 +11,7 @@ github:
 scholar: 
 image: /assets/images/people/justina-gerald.jpg
 cv:
-alum: false
+alum: true
 ---
 [Justina](https://jpg2858.wixsite.com/justinagerald) is an undergraduate student studying Information Science
 and Psychology.

@@ -5,7 +5,7 @@
 # in the templates via {{ site.myvariable }}.
 permalink: /:categories/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".sublime-project", ".sublime-workspace", "MEMBER_SURVEY.md"]
 highlighter: rouge
 
 markdown: kramdown

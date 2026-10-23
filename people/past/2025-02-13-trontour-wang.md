@@ -11,6 +11,6 @@ github:
 scholar: 
 image: /assets/images/people/trontour-wang.jpg
 cv:
-alum: false
+alum: true
 ---
 Trontour Wang is an undergraduate student studying Computer Science. He is especially interested in the intersection of CS, AI, and robotics.

@@ -3,3 +3,5 @@ _site
 .jekyll-metadata
 .jekyll-cache
 .DS_Store
+.plan-to-update-lab-site.md
+scratchpad/
