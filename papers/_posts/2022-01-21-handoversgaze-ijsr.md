@@ -6,9 +6,9 @@ shortref: "Kshirsagar et al. IJSR 2022"
 shorttitle: "Human Preferences for Robot Eye Gaze in Human-to-Robot Handovers"
 nickname: handoversgaze-ijsr
 journal: "International Journal of Social Robotics"
-volume:
-issue:
-pages: 1-18
+volume: 14
+issue: 4
+pages: 995-1012
 authors: "Faibish, T., Kshirsagar, A., Hoffman, G., & Edan, Y."
 image: handover-gaze-ijsr.jpg
 pdf: FaibishetalIJSR22.pdf
