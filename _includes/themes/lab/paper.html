@@ -40,9 +40,6 @@ with gratitude.
 				: {{ page.pages }}
 				{% endif %}
 			</div>
-			{% if page.award %}
-			<p /><div class="smallhead"><strong>{{page.award}}</strong></div>
-			{% endif %}
 		</div>
 	</div>
 </div>
@@ -53,6 +50,17 @@ with gratitude.
 	<div class="col-md-3">
 		<div class="bigspacer"></div>
 		<div class="glyphbox note"> <!-- DAD: what is this class? -->
+			{% if page.award %}
+			<div class="smallhead subtle">
+				Award
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-trophy fa-fw"></i>
+				{{ page.award }}
+			</div>
+			<div class="bigspacer"></div>
+			{% endif %}
 			{% if page.pdf or page.pdflink or page.fulltext %}
 			<div class="smallhead subtle">
 				Full text
