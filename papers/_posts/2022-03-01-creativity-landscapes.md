@@ -6,9 +6,9 @@ shortref: "Alves-Oliveira et al. JCB 2022"
 shorttitle: "Creativity Landscapes"
 nickname: creativity-landscapes
 journal: "Journal of Creative Behavior"
-volume:
-issue:
-pages: 16–40
+volume: 56
+issue: 1
+pages: 16-40
 authors: "Alves-Oliveira, P., Arriaga, P., Xavier, C., Hoffman, G. and Paiva, A"
 image: creativity-landscapes.png
 pdf: AlvesOliveiraJCB22.pdf

@@ -11,7 +11,7 @@ github: heisen-kong
 scholar: 
 image: /assets/images/people/heisen-kong.jpg
 cv:
-alum: false
+alum: true
 ---
 
 Heisen Kong is an early MEng student in Systems Engineering and studied Mechanical Engineering at Cornell. He is interested in human-robot interactions and product design. Within the lab, he is exploring the possibilities of tabletop design work with the assistance of a robot arm. 

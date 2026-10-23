@@ -1,14 +1,14 @@
 ---
 layout: paper
 title: "What Can a Robot’s Skin Be? Designing Texture-Changing Skin for Human-Robot Social Interaction"
-year: 2022
-shortref: "Hu & Hoffman THRI 2022"
+year: 2023
+shortref: "Hu & Hoffman THRI 2023"
 shorttitle: "What Can a Robot’s Skin Be?"
 nickname: what-can-skin
 journal: "ACM Transactions on Human-Robot Interaction"
-volume:
-issue:
-pages: 
+volume: 12
+issue: 2
+pages: 1-19
 authors: "Hu Y., and Hoffman, G."
 image: what-can-skin.jpg
 pdf: HuHoffmanTHRI22.pdf

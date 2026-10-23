@@ -1,14 +1,14 @@
 ---
 layout: paper
 title: "What Is It Like to Be a Bot? Variable Perspective Embodied Telepresence for Crowdsourcing Robot Movements"
-year: 2022
-shortref: "Suguitan & Hoffman PUC 2022"
+year: 2023
+shortref: "Suguitan & Hoffman PUC 2023"
 shorttitle: "What Is It Like to Be a Bot?"
 nickname: blossom-puc
 journal: "Personal and Ubiquitous Computing"
-volume:
-issue:
-pages: 
+volume: 27
+issue: 2
+pages: 299-315
 authors: "Suguitan M., and Hoffman, G."
 image: blossom-puc.png
 pdf: SuguitanHoffmanPU022.pdf

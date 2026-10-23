@@ -148,14 +148,33 @@ with gratitude.
 		</div>
 	</div>
 	{% else %}
-	<div class="col-md-6">	
+	<div class="col-md-6">
 		<div class="post">
 			{{ content }}
-		</div>	
+		</div>
 	</div>
 	{% endif %}
 
 </div>
+
+<div class="bigspacer"></div>
+
+{% assign relatedpapers = site.categories.papers | where_exp: "p", "p.projects contains page.nickname" %}
+{% if page.nickname and relatedpapers.size > 0 %}
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead subtle">Related Papers</div>
+		<div class="bigspacer"></div>
+	</div>
+</div>
+{% assign memberindex = 0 %}
+{% for paper in relatedpapers %}
+  {% include themes/lab/onepaper.html %}
+{% endfor %}
+{% if colindex != 0 %}
+</div><div class="bigspacer"></div>
+{% endif %}
+{% endif %}
 
 <div class="bigspacer"></div>
 

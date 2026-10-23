@@ -6,8 +6,11 @@ group: navigation
 navorder: 3
 ---
 {% include JB/setup %}
-<div class="bigspacer"></div> 
-{% for project in site.categories.projects %}
+<div class="bigspacer"></div>
+{% assign currentprojects = site.categories.projects | where_exp: "project", "project.status != 'past'" %}
+{% assign pastprojects = site.categories.projects | where_exp: "project", "project.status == 'past'" %}
+
+{% for project in currentprojects %}
   <div class="row">
   <div class="col-md-12 projectbox">
    <div class="media">
@@ -18,7 +21,7 @@ navorder: 3
           <div class="smallhead media-heading">
           <a href="{{ project.url }}" class="off">{{ project.title }}</a>
           </div>
-          <div class="smallspacer"></div> 
+          <div class="smallspacer"></div>
           <div class="note">
             {{ project.excerpt }}
           </div>
@@ -27,5 +30,30 @@ navorder: 3
   </div>
 </div><div class="bigspacer"></div>
 {% endfor %}
+
+{% if pastprojects.size > 0 %}
+<div class="title">Past Projects</div>
+<div class="bigspacer"></div>
+{% for project in pastprojects %}
+  <div class="row">
+  <div class="col-md-12 projectbox">
+   <div class="media">
+        <a class="pull-left" href="{{ project.url }}">
+          <img width="100px" class="media-object" src="{{ project.image }}">
+        </a>
+      <div class="media-body project-text">
+          <div class="smallhead media-heading">
+          <a href="{{ project.url }}" class="off">{{ project.title }}</a>
+          </div>
+          <div class="smallspacer"></div>
+          <div class="note">
+            {{ project.excerpt }}
+          </div>
+      </div>
+    </div>
+  </div>
+</div><div class="bigspacer"></div>
+{% endfor %}
+{% endif %}
 
 <div class="bigspacer"></div>

@@ -70,7 +70,7 @@ navorder: 2
 <!-- my sort of involved way of sorting by "degree" - there may be a better way -->
 {% assign alums = site.data.alums | group_by: "degree" %}
 
-{% assign degrees = "PhD,MS,MEng,MPS,Undergraduate" | split: ',' %}
+{% assign degrees = "PhD,Postdoc,MS,MEng,MPS,Undergraduate" | split: ',' %}
 {% for deg in degrees %}
 	<h1>{{ deg }}</h1>
 	{% assign sgroup = alums | where: "name", deg | first | map: "items" | reverse %}
