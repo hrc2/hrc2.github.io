@@ -10,8 +10,8 @@ volume:
 issue:
 pages: 13-34
 authors: "Dunstan, B. J., & Hoffman, G."
-image: placeholder-paper.png
-pdf:
+image: steam-man.jpg
+pdf: DunstanHoffmanCultural23.pdf
 pdflink:
 fulltext:
 pubtype: book chapter
