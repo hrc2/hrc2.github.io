@@ -11,7 +11,7 @@ issue:
 pages: 132-139
 authors: "Hoffman, G."
 image: placeholder-paper.png
-pdf:
+pdf: HoffmanMaterials24.pdf
 pdflink:
 fulltext:
 pubtype: book chapter

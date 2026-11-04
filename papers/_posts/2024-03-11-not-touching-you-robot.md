@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 511-521
 authors: "Neto, I., Hu, Y., Correia, F., Rocha, F., Nogueira, J., Buckmayer, K., Hoffman, G., Nicolau, H., & Paiva, A."
-pdf:
+image: not-touching-you-robot.jpg
+pdf: NetoetalHRI24.pdf
 pdflink:
 fulltext:
 pubtype: conference

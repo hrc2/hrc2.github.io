@@ -10,7 +10,8 @@ volume:
 issue:
 pages:
 authors: "Guo, S. G., Yang, Q., Yu, J. J., Niu, W., Yan, Y., Hoffman, G., Leshed, G., & Green, K. E."
-pdf:
+image: mirrorbot-chi.jpg
+pdf: GuoetalCHI26.pdf
 pdflink:
 fulltext:
 pubtype: conference

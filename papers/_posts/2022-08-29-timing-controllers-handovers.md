@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 1313-1320
 authors: "Kshirsagar, A., Ravi, R. K., Kress-Gazit, H., & Hoffman, G."
-pdf:
+image: timing-controllers-handovers.jpg
+pdf: KshirsagaretalROMAN22.pdf
 pdflink:
 fulltext:
 pubtype: conference

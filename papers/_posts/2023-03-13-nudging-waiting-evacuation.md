@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 603-611
 authors: "Hu, Y., Ryu, J., Gundana, D., Petersen, K. H., Kress-Gazit, H., & Hoffman, G."
-pdf:
+image: nudging-waiting-evacuation.jpg
+pdf: HuetalHRI23.pdf
 pdflink:
 fulltext:
 pubtype: conference

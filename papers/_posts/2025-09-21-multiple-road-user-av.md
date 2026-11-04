@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 339-350
 authors: "Jeong, J., Goedicke, D., Ju, W., & Hoffman, G."
-pdf:
+image: multiple-road-user-av.jpg
+pdf: JeongetalAUTOUI25.pdf
 pdflink:
 fulltext:
 pubtype: conference
