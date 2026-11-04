@@ -10,7 +10,6 @@ volume:
 issue:
 pages:
 authors: "Guo, S. G., Yang, Q., Yu, J. J., Niu, W., Yan, Y., Hoffman, G., Leshed, G., & Green, K. E."
-image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:

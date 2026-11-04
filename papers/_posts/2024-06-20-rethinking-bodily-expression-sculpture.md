@@ -10,7 +10,6 @@ volume:
 issue: 61
 pages: 98-116
 authors: "Dunstan, B. J., & Hoffman, G."
-image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

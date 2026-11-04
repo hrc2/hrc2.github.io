@@ -10,7 +10,6 @@ volume: 13
 issue: 3
 pages: 1-18
 authors: "Suguitan, M., DePalma, N., Hoffman, G., & Hodgins, J."
-image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

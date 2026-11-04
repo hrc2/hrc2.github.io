@@ -20,7 +20,7 @@ pmid:
 pmcid:
 f1000:
 figshare:
-doi:
+doi: 10.3233/FAIA200953
 category: papers
 published: true
 tags: [uncanny, social robots]

@@ -6,10 +6,20 @@
 <div class="row">
 {% endif %}
 
+{% if paper.image %}
+  {% assign paperimage = paper.image %}
+{% elsif paper.pubtype == 'conference' %}
+  {% assign paperimage = 'placeholder-conference.png' %}
+{% elsif paper.pubtype == 'journal' %}
+  {% assign paperimage = 'placeholder-journal.png' %}
+{% else %}
+  {% assign paperimage = 'placeholder-paper.png' %}
+{% endif %}
+
 <div class="col-md-4 paperbox">
     <div class="media">
         <a class="pull-right" href="{{ paper.url }}">
-            <img width=100 class="media-object" src="/assets/images/papers/{{ paper.image }}">
+            <img width=100 class="media-object" src="/assets/images/papers/{{ paperimage }}">
         </a>
         <div class="media-body">
             <div class="smallhead media-heading">

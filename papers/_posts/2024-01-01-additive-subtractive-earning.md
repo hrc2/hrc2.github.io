@@ -10,7 +10,6 @@ volume: 217
 issue:
 pages: 692-704
 authors: "Dreyfuss, B., Heffetz, O., Hoffman, G., Ishai, G., & Kshirsagar, A."
-image: placeholder-journal.png
 pdf:
 pdflink:
 fulltext:

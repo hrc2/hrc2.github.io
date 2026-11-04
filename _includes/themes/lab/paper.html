@@ -9,8 +9,15 @@ with gratitude.
 	<div class="col-md-3">
 		<div class="media">
 			{% if page.image %}
-			<img class="pull-left pad-right media-object paper-image" src="/assets/images/papers/{{ page.image }}">
+			  {% assign paperimage = page.image %}
+			{% elsif page.pubtype == 'conference' %}
+			  {% assign paperimage = 'placeholder-conference.png' %}
+			{% elsif page.pubtype == 'journal' %}
+			  {% assign paperimage = 'placeholder-journal.png' %}
+			{% else %}
+			  {% assign paperimage = 'placeholder-paper.png' %}
 			{% endif %}
+			<img class="pull-left pad-right media-object paper-image" src="/assets/images/papers/{{ paperimage }}">
 		</div>
 	</div>
 

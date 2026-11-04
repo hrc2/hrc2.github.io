@@ -10,7 +10,6 @@ volume: 38
 issue: 21
 pages: 23137-23145
 authors: "Shi, Z., O'Connell, A., Li, Z., Liu, S., Ayissi, J., Hoffman, G., Soleymani, M., & Matarić, M. J."
-image: placeholder-conference.png
 pdf:
 pdflink:
 fulltext:
