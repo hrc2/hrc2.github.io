@@ -10,7 +10,7 @@ volume:
 issue:
 pages: 132-139
 authors: "Hoffman, G."
-image: placeholder-paper.png
+image: glass-robot.jpg
 pdf: HoffmanMaterials24.pdf
 pdflink:
 fulltext:
