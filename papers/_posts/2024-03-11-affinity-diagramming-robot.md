@@ -10,7 +10,8 @@ volume: 13
 issue: 1
 pages: 1-41
 authors: "Law, M. V., Nwagwu, N., Kwatra, A., Lee, S., DiAngelis, D. M., Yu, N., Gonzalez-Pumariega, G., Rajesh, A., & Hoffman, G."
-pdf:
+image: affinity-diagramming-robot.jpg
+pdf: LawetalTHRI24.pdf
 pdflink:
 fulltext:
 pubtype: journal

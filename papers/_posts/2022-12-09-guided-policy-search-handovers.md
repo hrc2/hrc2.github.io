@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 52-57
 authors: "Kshirsagar, A., Faibish, T., Hoffman, G., & Biess, A."
-pdf:
+image: guided-policy-search-handovers.jpg
+pdf: KshirsagaretalICRAAI22.pdf
 pdflink:
 fulltext:
 pubtype: conference
