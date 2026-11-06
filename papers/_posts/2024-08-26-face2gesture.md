@@ -10,7 +10,8 @@ volume: 13
 issue: 3
 pages: 1-18
 authors: "Suguitan, M., DePalma, N., Hoffman, G., & Hodgins, J."
-pdf:
+image: face2gesture.jpg
+pdf: SuguitanTHRI24.pdf
 pdflink:
 fulltext:
 pubtype: journal

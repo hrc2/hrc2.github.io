@@ -10,7 +10,8 @@ volume: 38
 issue: 21
 pages: 23137-23145
 authors: "Shi, Z., O'Connell, A., Li, Z., Liu, S., Ayissi, J., Hoffman, G., Soleymani, M., & Matarić, M. J."
-pdf:
+image: build-your-own-robot-friend.jpg
+pdf: ShietalAAAI24.pdf
 pdflink:
 fulltext:
 pubtype: conference

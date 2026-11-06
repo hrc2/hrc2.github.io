@@ -10,7 +10,8 @@ volume:
 issue: 61
 pages: 98-116
 authors: "Dunstan, B. J., & Hoffman, G."
-pdf:
+image: rethinking-bodily-expression-sculpture.jpg
+pdf: DunstanHoffmanIxD24.pdf
 pdflink:
 fulltext:
 pubtype: journal

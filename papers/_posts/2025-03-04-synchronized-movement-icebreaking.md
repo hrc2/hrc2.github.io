@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 1324-1328
 authors: "Guo, G. S., Yang, Q., Hu, R., & Hoffman, G."
-pdf:
+image: synchronized-movement-icebreaking.jpg
+pdf: GuoetalHRI25.pdf
 pdflink:
 fulltext:
 pubtype: conference

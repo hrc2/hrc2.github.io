@@ -10,7 +10,8 @@ volume:
 issue:
 pages: 1013-1020
 authors: "Hu, Y., Ray, P., & Hoffman, G."
-pdf:
+image: shadow-detection-privacy.jpg
+pdf: HuetalROMAN24.pdf
 pdflink:
 fulltext:
 pubtype: conference
