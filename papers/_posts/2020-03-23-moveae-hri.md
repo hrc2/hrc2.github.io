@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Suguitan, M., Gomez, R., & Hoffman, G."
 image: moveae.png
+summary: "A classifying variational autoencoder lets designers tweak a robot's emotive movements through simple arithmetic in latent space, changing their emotional quality while keeping them recognizable."
 pdf: SuguitanHoffmanHRI20.pdf
 pdflink:
 fulltext: 

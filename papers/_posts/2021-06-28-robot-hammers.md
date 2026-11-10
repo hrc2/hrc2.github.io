@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Law, M. V., Li, Z., Rajesh, A., Dhawan, N., Kwatra, A., and Hoffman, G."
 image: robot-hammers.png
+summary: "Letting humans, rather than an algorithm, redesign the tool a reinforcement-learning agent uses raises new questions about understanding an RL agent's experience and goals, explored here through pilots where twelve users redesigned a 2D racecar."
 pdf: LawetalDIS21.pdf
 pdflink: 
 fulltext:

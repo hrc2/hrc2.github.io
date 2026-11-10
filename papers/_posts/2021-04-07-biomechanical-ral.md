@@ -11,6 +11,7 @@ issue: 3
 pages: 5024–5031
 authors: "Vatsal, V., and Hoffman, G."
 image: biomechanical-ral.png
+summary: "A biomechanically-informed trajectory planner for a wearable robotic forearm cuts peak human muscle fiber forces by up to 23% compared to simple linearly-interpolated paths."
 pdf: VatsalHoffmanRAL21.pdf
 pdflink:
 fulltext:  

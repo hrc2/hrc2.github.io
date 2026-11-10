@@ -10,7 +10,9 @@ volume:
 issue:
 pages: 1-16
 authors: "Neto, I., Hu, Y., Correia, F., Rocha, F., Hoffman, G., Nicolau, H., & Paiva, A."
-pdf:
+image: emotions-shape-changing-children.png
+summary: "A study with 50 sighted and visually-impaired children finds that their emotional associations with shape-changing skin textures depend on their visual experience, informing more inclusive tactile design."
+pdf: NetoetalCHI24.pdf
 pdflink:
 fulltext:
 pubtype: conference
@@ -30,4 +32,4 @@ projects: [texture-changing-skin]
 
 # Abstract
 
-This paper investigates how a shape-changing robot can convey emotions to children with and without visual impairment, exploring tactile shape change as an inclusive channel for robot emotional expression.
+Shape-changing skin is an exciting modality due to its accessible and engaging nature. Its softness and flexibility make it adaptable to different interactive devices that children with and without visual impairments can share. Although their potential as an emotionally expressive medium has been shown for sighted adults, their potential as an inclusive modality remains unexplored. This work explores the shape-emotional mappings in children with and without visual impairment. We conducted a user study with 50 children (26 with visual impairment) to investigate their emotional associations with five skin shapes and two movement conditions. Results show that shape-emotional mappings are dependent on visual abilities. Our study raises awareness of the influence of visual experiences on tactile vocabulary and emotional mapping among sighted, low-vision, and blind children. We finish discussing the causal associations between tactile stimuli and emotions and suggest inclusive design recommendations for shape-changing devices.

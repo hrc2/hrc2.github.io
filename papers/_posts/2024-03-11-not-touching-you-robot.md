@@ -11,6 +11,7 @@ issue:
 pages: 511-521
 authors: "Neto, I., Hu, Y., Correia, F., Rocha, F., Nogueira, J., Buckmayer, K., Hoffman, G., Nicolau, H., & Paiva, A."
 image: not-touching-you-robot.jpg
+summary: "Touchibo, a tactile storyteller robot, significantly increased participation and enjoyment for sighted and visually-impaired children interacting together, compared to an audio-only storyteller."
 pdf: NetoetalHRI24.pdf
 pdflink:
 fulltext:
@@ -31,4 +32,4 @@ projects: [texture-changing-skin]
 
 # Abstract
 
-This paper presents a touch-based robot designed to promote inclusion among mixed-visual-ability children, examining how shared tactile interaction with the robot mediates and supports social play between sighted and visually impaired children.
+Children with visual impairments often struggle to fully participate in group activities due to limited access to visual cues. They have difficulty perceiving what is happening, when, and how to act-leading to children with and without visual impairments being frustrated with the group activity, reducing mutual interactions. To address this, we created Touchibo, a tactile storyteller robot acting in a multisensory setting, encouraging touch-based interactions. Touchibo provides an inclusive space for group interaction as touch is a highly accessible modality in a mixed-visual ability context. In a study involving 107 children (37 with visual impairments), we compared Touchibo to an audio-only storyteller. Results indicate that Touchibo significantly improved children's individual and group participation perception, sparking touch-based interactions and the storyteller was more likable and helpful. Our study highlights touch-based robots' potential to enrich children's social interactions by prompting interpersonal touch, particularly in mixed-visual ability settings.

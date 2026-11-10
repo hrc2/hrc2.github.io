@@ -11,6 +11,7 @@ issue: 2
 pages: 1-19
 authors: "Hu Y., and Hoffman, G."
 image: what-can-skin.jpg
+summary: "Robot skin is usually just a passive shell. This paper reframes it as an expressive medium and demonstrates six texture-changing skin prototypes built from pneumatically actuated dynamic textures."
 pdf: HuHoffmanTHRI22.pdf
 pdflink:
 fulltext:  

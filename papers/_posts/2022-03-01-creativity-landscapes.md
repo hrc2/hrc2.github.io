@@ -11,6 +11,7 @@ issue: 1
 pages: 16-40
 authors: "Alves-Oliveira, P., Arriaga, P., Xavier, C., Hoffman, G. and Paiva, A"
 image: creativity-landscapes.png
+summary: "A 70-year systematic review of creativity interventions for children (ages 5-13) profiles existing training programs and proposes an expanded coding scheme for classifying creativity research."
 pdf: AlvesOliveiraJCB22.pdf
 pdflink:
 fulltext:  

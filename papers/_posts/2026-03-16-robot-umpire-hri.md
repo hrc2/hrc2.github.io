@@ -11,6 +11,7 @@ issue:
 pages:
 authors: "Kamino, W., Wen-Yi, A. W., Hoffman, G., Šabanović, S., & Jung, M. F."
 image: robot-umpire-hri.jpg
+summary: "Baseball's \"robot umpire\" (the Automated Ball-Strike System) turns out to be less a fixed device than a continually negotiated sociotechnical assemblage, reshaping how we should think about what counts as a robot."
 pdf:
 pdflink:
 fulltext:
@@ -30,4 +31,4 @@ tags: [studies]
 
 # Abstract
 
-This paper examines baseball's automated strike zone technology, exploring "What Is a Robot?" through technological and social lenses.
+The question "what is a robot?" has long been contested as automated embodied systems encompass many forms. We examine this fundamental question in Human-Robot Interaction through the case of Major League Baseball's "robot umpire," officially known as the Automated Ball-Strike System (ABS). Drawing on the concept of "fluid technology," we analyze how the robot umpire is not a fixed technological artifact but a fluid sociotechnical assemblage whose definition and function are continuously negotiated. Through ethnographic fieldwork and interviews with stakeholders across the baseball ecosystem, we demonstrate that the robot umpire's physical boundaries, operational parameters, and authorship remain contested and evolving, shaped by ongoing interactions between technology developers, league officials, umpires, players, and fans. Our findings reveal that treating robots as fluid technologies—rather than as discrete objects—opens new possibilities for understanding human-robot relationships. We contribute both theoretical insights regarding the ontological flexibility of "robots" and methodological approaches for studying and designing robots as sociotechnical assemblages.

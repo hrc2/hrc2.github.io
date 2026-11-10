@@ -11,6 +11,7 @@ issue: 9
 pages: 78–84
 authors: "Kress-Gazit, H., Eder, K., Hoffman, G., Admoni, H., Argall, B., Ehlers, R., ... & Sadigh, D."
 image: formalizing-hri.png
+summary: "As robots interact more closely with humans, formal methods are needed to build HRI systems that can actually be trusted for safety and interaction quality."
 pdf: KressGazitetalCACM21.pdf
 pdflink:  
 fulltext: 
@@ -29,4 +30,4 @@ tags: [formal-methods, review]
 
 # Abstract 
 
-Robot capabilities are maturing across domains, from self-driving cars to bipeds to drones. As a result, robots will soon no longer be confined to safety-controlled industrial settings; instead, they will directly interact with the general public. The growing field of human-robot interaction (HRI) studies various aspects of this scenario, from social norms to collaborative manipulation to human-robot teaming, and more.
+As robots begin to interact closely with humans, we need to build systems worthy of trust regarding the safety and quality of the interaction.

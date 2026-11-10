@@ -11,6 +11,7 @@ issue:
 pages:
 authors: "Hoffman, G."
 image: robot-replic.jpg
+summary: "Robotic companionship can unsettle us, not just via the uncanny valley, but by touching deep concerns about being irreplaceable, about decay and mortality, and about losing the ability to relate to other humans."
 pdf: Hoffman20SocialUncanniness.pdf
 pdflink:
 fulltext: http://ebooks.iospress.nl/volume/culturally-sustainable-social-robotics-proceedings-of-robophilosophy-2020

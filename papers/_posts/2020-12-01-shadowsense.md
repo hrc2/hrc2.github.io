@@ -11,6 +11,7 @@ issue: 4
 pages: 1-24
 authors: "Hu, Y., Bejarano, S. M., & Hoffman, G."
 image: shadowsense.jpg
+summary: "ShadowSense detects detailed touch gestures on an inflatable robot by classifying the shadows cast on a translucent skin, reaching 87.5-96% accuracy without contact sensors or direct contact at all."
 pdf: HuetalIMWUT20.pdf
 pdflink:
 fulltext:

@@ -11,6 +11,7 @@ issue: 3
 pages: 19
 authors: "Vatsal, V., & Hoffman, G."
 image: thirdarm-robotics.jpg
+summary: "A wearable robotic \"third arm\" extends a user's reach for handovers and collaborative tasks, and using AR/RNN motion prediction to compensate for the wearer's own movement cuts end-effector position error by up to 26%."
 pdf: VatsalHoffmanRobotics21.pdf
 pdflink:  
 fulltext: https://www.mdpi.com/2218-6581/10/3/91

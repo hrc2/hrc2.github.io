@@ -11,6 +11,7 @@ issue: 2
 pages: 299-315
 authors: "Suguitan M., and Hoffman, G."
 image: blossom-puc.png
+summary: "A telepresence system lets remote users control a robot with their phone's motion sensors to crowdsource emotive movement data, finding users prefer a third-person view and that the resulting ML-generated movements rival hand-crafted ones."
 pdf: SuguitanHoffmanPU022.pdf
 pdflink:
 fulltext:  

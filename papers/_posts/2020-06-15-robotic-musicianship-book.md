@@ -11,6 +11,7 @@ issue:
 pages:
 authors: "Weinberg, G., Bretan, M., Hoffman, G., & Driscoll, S."
 image: robotic-musicianship.jpg
+summary: "This book surveys Georgia Tech's robotic musicianship platforms, from Haile and Shimon to wearable drumming prostheses, organized around five guiding principles for machines that listen, play, and create music with humans."
 pdf:
 pdflink:
 fulltext:

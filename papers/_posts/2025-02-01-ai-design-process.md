@@ -11,6 +11,7 @@ issue: 2
 pages: 1569-1584
 authors: "Lee, S. Y., Law, M., & Hoffman, G."
 image: robot-rockgarden.jpg
+summary: "AI design-support tools mostly help in the later, solution-generating stages of design, leaving earlier problem-definition stages underserved, where a case study suggests ChatGPT and robots could still help."
 pdf: LeeLawHoffmanIJHCI23.pdf
 pdflink:
 fulltext:

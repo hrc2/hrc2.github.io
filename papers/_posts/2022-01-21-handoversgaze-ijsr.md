@@ -11,6 +11,7 @@ issue: 4
 pages: 995-1012
 authors: "Faibish, T., Kshirsagar, A., Hoffman, G., & Edan, Y."
 image: handover-gaze-ijsr.jpg
+summary: "Across video and in-person studies, a robot that gazes Face-Hand-Face during a handover (face, then hand, then back to face) is seen as more likable, anthropomorphic, and communicative of timing than other gaze patterns."
 pdf: FaibishetalIJSR22.pdf
 pdflink:
 fulltext:  

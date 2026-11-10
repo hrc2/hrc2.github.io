@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Jeong, J. & Hoffman, G."
 image: fss-robot.png
+summary: "A decision-making agent that explicitly builds in \"face-work,\" the social ritual of helping a human partner avoid losing face, is designed and demonstrated with a simulated collaborative robot arm."
 pdf: JeongHoffmanAAAIFSS20.pdf
 pdflink: 
 fulltext:

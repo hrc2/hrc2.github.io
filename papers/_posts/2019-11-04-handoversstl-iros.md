@@ -11,6 +11,7 @@ issue:
 pages:
 authors: "Kshirsagar, A., Kress-Gazit, H., & Hoffman, G."
 image: handover-stl-c.png
+summary: "A handover controller synthesized automatically from Signal Temporal Logic specifications gives formal timing guarantees and lets end-users adjust robot behavior through high-level goals instead of tuning low-level parameters."
 pdf: KshirsagaretalIROS19.pdf
 pdflink:
 fulltext:  

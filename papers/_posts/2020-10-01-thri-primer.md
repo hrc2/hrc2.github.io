@@ -11,6 +11,7 @@ issue: 1
 pages: 1-31
 authors: "Hoffman, G. & Zhao, X."
 image: thri-primer.png
+summary: "A practical primer walks HRI researchers without formal empirical training through the full arc of running a rigorous human-participant study, from hypotheses to statistics to reporting."
 pdf: HoffmanZhaoTHRI20.pdf
 pdflink:
 fulltext:

@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Carter, A. and Hoffman, G."
 image: improv-workshop.jpg
+summary: "Joint workshops pairing musicians with robotics engineers surface both parallels and gaps in how each group conceptualizes improvisation, with implications for designers of improvising robots."
 pdf: CarterHoffmanFrontiers21.pdf
 pdflink:
 fulltext:  

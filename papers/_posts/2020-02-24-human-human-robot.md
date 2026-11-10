@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Rifinski, D., Erel, H., Feiner, A., Hoffman, G. & Zuckerman, O."
 image: hhri-hci20.png
+summary: "A minimally responsive robotic object, just gazing and leaning with two degrees of freedom, measurably improves how people rate their own face-to-face conversation with another human."
 # pdf: RifinskietalHCI20.pdf
 pdflink:
 fulltext:  

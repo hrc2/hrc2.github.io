@@ -11,6 +11,7 @@ issue: 2
 pages: 3933-3940
 authors: "Kshirsagar, A., Hoffman, G., & Biess, A."
 image: handover-gps-ral.png
+summary: "Guided Policy Search can train a robot handover controller that generalizes well across object masses, but struggles to generalize across target locations and moving targets without added local controllers."
 pdf: KshirsagaretalRAL21.pdf
 pdflink:
 fulltext:  

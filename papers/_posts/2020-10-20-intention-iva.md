@@ -11,6 +11,7 @@ issue:
 pages:
 authors: "Law, M. V., Kwatra, A., Dhawan, N., Einhorn, M., Rajesh, A. & Hoffman, G."
 image: distopia-iva.png
+summary: "A dynamic Bayesian network trained on simulated design behavior can infer a human co-designer's underlying intentions from their design outcomes alone, correctly guessing the exact intention combination about a third of the time."
 pdf: LawetalIVA2020.pdf
 pdflink:
 fulltext:

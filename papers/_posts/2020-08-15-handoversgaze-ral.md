@@ -11,6 +11,7 @@ issue: 4
 pages: 6552-6558
 authors: "Kshirsagar, A., Lim, M., Christian, S., & Hoffman, G."
 image: handover-gaze-ral.png
+summary: "Having a robot shift its gaze from the giver's face to their hand during a handover makes the exchange seem more likable, anthropomorphic, and clear about timing, though effects were weaker once people physically handed objects to the robot."
 pdf: KshirsagaretalRAL20.pdf
 pdflink: 
 fulltext:  

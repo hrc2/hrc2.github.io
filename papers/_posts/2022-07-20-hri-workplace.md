@@ -11,6 +11,7 @@ issue:
 pages: 305–348
 authors: "Hoffman, G., Kshirsagar, A., & Law, M. V."
 image: hri-workplace.png
+summary: "This chapter surveys workplace HRI's largely physical challenges, then details three of the lab's own studies on the psychological toll of competing with robots, robot-assisted complex decisions, and inferring intent from decision outcomes."
 pdf: HoffmanetalAPA22.pdf
 pdflink:
 fulltext:  

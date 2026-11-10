@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Friedman, N., Love, K., LC, R., Sabin, J. E., Hoffman, G., and Ju, W."
 image: robot-clothing.jpg
+summary: "Clothing is an underexplored design opportunity for robots: this paper lays out functional requirements and reference cases for dressing robots to widen where and how they can function."
 pdf: FriedmanetalDIS21.pdf
 pdflink: 
 fulltext:

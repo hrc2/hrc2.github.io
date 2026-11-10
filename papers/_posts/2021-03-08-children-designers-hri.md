@@ -11,6 +11,7 @@ issue:
 pages: 
 authors: "Alves-Oliveira, P., Arriaga, P., Paiva, A, and Hoffman G."
 image: children-designers.jpg
+summary: "A two-year, child-centered participatory design process involving 142 children produced YOLO, a creativity-stimulating social robot, and a set of guidelines for designing robots with and for children."
 pdf: AlvesOliveiraetalHRI21.pdf
 pdflink:
 fulltext: 
