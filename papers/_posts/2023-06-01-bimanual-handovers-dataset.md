@@ -11,7 +11,7 @@ issue:
 pages: 109277
 authors: "Kshirsagar, A., Fortuna, R., Xie, Z., & Hoffman, G."
 summary: "A multi-sensor dataset of 360 recordings captures full-body motion, markers, and depth video from 12 pairs performing bimanual and unimanual human-to-human object handovers, for studying or training handover behavior."
-pdf:
+pdf: KshirsagaretalDataBrief23.pdf
 pdflink:
 fulltext:
 pubtype: journal
@@ -19,7 +19,7 @@ github:
 pmid:
 pmcid:
 f1000:
-figshare:
+image: bimanual-data.jpg
 doi: 10.1016/j.dib.2023.109277
 category: papers
 published: true
