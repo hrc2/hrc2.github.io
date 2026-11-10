@@ -11,7 +11,7 @@ issue:
 pages: 692-704
 authors: "Dreyfuss, B., Heffetz, O., Hoffman, G., Ishai, G., & Kshirsagar, A."
 summary: "Whether a robot's performance helps or hurts a human coworker's pay changes everything: higher robot performance discourages worker effort only when earnings are framed as losses, not gains."
-pdf:
+pdf: DreyfusetalJEBO24.pdf
 pdflink:
 fulltext:
 pubtype: journal
@@ -19,7 +19,7 @@ github:
 pmid:
 pmcid:
 f1000:
-figshare:
+image: ebrd-hri.jpg
 doi: 10.1016/j.jebo.2023.11.024
 category: papers
 published: true

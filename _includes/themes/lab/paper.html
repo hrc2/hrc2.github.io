@@ -187,10 +187,17 @@ with gratitude.
 		</div>
 	</div>
 	{% else %}
-	<div class="col-md-8">	
+	<div class="col-md-8">
 		<div class="post">
+			{% if page.summary %}
+			<div class="smallhead subtle">
+				AI-Generated Summary (possibly wrong, likely cringy)
+			</div>
+			<p class="paper-summary">{{ page.summary }}</p>
+			<div class="smallspacer"></div>
+			{% endif %}
 			{{ content }}
-		</div>	
+		</div>
 	</div>
 	{% endif %}
 
